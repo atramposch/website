@@ -36,3 +36,7 @@
     background-color: #FFFFFF;
     text-align: center;
   }
+
+.container {
+    padding-bottom: 3rem;
+}
