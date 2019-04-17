@@ -7,14 +7,16 @@ nav: Blog
 		{% for post in site.posts %}
 			<a href="{{ post.url }}" class="list-group-item list-group-item-action flex-column align-items-start">
 				<div class="d-flex w-100 justify-content-between">
-					<h5 class="mb-1 text-primary">{{ post.title }}</h5>
+					<h5 class="mb-0 text-primary">{{ post.title }}
+					{% assign today_date = 'now' | date: '%s' %}
+					{% assign new_expire_date = post.new_expire_date | date: '%s' %}
+					{% if today_date < new_expire_date %}	
+						<span class="badge badge-warning">NEW</span>
+					{% endif %}
+					</h5>
 					<h6><span class="badge badge-secondary">{{ post.date_2 }}</span></h6>
 				</div>
-				<p class="mb-1"> {{ post.excerpt }} </p>
+				<p class="mb-0">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
 			</a>
-		  <!-- <li class="list-group-item d-flex justify-content-between align-items-center">
-				<a href="{{ post.url }}" class="text-info">{{ post.title }}</a>
-				<span class="badge badge-info badge-pill">{{ post.date_2 }}</span>
-		  </li> -->
 		{% endfor %}
 </ul>
