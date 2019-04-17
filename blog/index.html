@@ -5,7 +5,7 @@ nav: Blog
 ---
 <ul class="list-group">
 		{% for post in site.posts %}
-			<a href="{{ post.url }}" class="list-group-item list-group-item-action flex-column align-items-start">
+			<a href="{{ post.url }}" class="list-group-item list-group-item-action flex-column align-items-start shadow-sm">
 				<div class="d-flex w-100 justify-content-between">
 					<h5 class="mb-0 text-primary">{{ post.title }}
 					{% assign today_date = 'now' | date: '%s' %}
