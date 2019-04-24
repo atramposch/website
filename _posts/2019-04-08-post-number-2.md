@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Post #2 Test"
+author: Andrew Tramposch
 date: 2019-04-08
 date_2: 2019-04-08
 new_expire_date: 2019-05-01
