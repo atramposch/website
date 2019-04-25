@@ -7,7 +7,7 @@ nav: Blog
 	{% for post in site.posts %}
 	<a href="{{ post.url }}" class="list-group-item list-group-item-action flex-column align-items-start shadow-sm">
 		<div class="d-flex w-100 justify-content-between">
-			<h5 class="mb-0 text-primary">{{ post.title }}
+			<h5 class="mb-0 text-primary"><span class="align-middle">{{ post.title }}</span>
 				{% assign today_date = 'now' | date: '%s' %}
 				{% assign new_expire_date = post.new_expire_date | date: '%s' %}
 				{% if today_date < new_expire_date %}
