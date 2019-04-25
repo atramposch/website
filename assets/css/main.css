@@ -40,3 +40,8 @@
 .container {
     padding-bottom: 3rem;
 }
+
+.bg-books {
+    background-color: rgba(0,0,0,0.05);
+    border-color: grey;
+}
