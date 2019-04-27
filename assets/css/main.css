@@ -41,7 +41,16 @@
     padding-bottom: 3rem;
 }
 
-.bg-books {
+.top-row-books {
+    /* background-color: rgba(0,0,0,0.05); */
+    border-style: solid;
+    border-width: 1px 0px 1px 0px;
+    border-color: rgba(0,0,0,0.15);
+}
+
+.shaded-row-books {
     background-color: rgba(0,0,0,0.05);
-    border-color: grey;
+    border-style: solid;
+    border-width 1px 0px 1px 0px;
+    border-color: rgba(0,0,0,0.15);
 }
