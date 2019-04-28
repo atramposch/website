@@ -1,7 +1,53 @@
-- Category: Currently Reading
-  title: The Shining
+- title: The Shining
+  category: Currently Reading
   author: Stephen King
-  ISBN: 978-0307743657
+  isbn: 978-0307743657
   Rating: TBD
-  Date Started: 2019.2.22
-  Date Finished: 
+  date_added: 2019.2.22
+  date_started: 2019.2.22
+  date_finished: 
+
+- title: A Visit from the Good Squad
+  category: Want to Read
+  author: Jennifer Egan
+  isbn: 
+  Rating: TBD
+  date_added: 2019.2.21
+  date_started: 
+  date_finished: 
+
+- title: Shantaram
+  category: Currently Reading
+  author: David Gregory Roberts
+  isbn: 
+  Rating: TBD
+  date_added: 2019.2.09 
+  date_started: 2019.2.22
+  date_finished:
+
+- title: Valley of Genius
+  category: Read
+  author: Adam Fisher
+  isbn: 
+  rating: 4
+  date_added: 2019.2.04
+  date_started: 2019.2.04
+  date_finished: 2019.2.22
+
+- title: The Night Circus
+  category: Want to Read
+  author: Erin Morgenstern
+  isbn: 
+  Rating: TBD
+  date_added: 2019.2.09 
+  date_started: 
+  date_finished:
+
+- title: Bad Blood Secrets & Lies in a Sillicon Valley Startup
+  category: Currently Reading
+  author: John Carreyrou
+  isbn: 
+  Rating: TBD
+  date_added: 2019.2.04 
+  date_started: 2019.4.27
+  date_finished:
