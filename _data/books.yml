@@ -2,7 +2,7 @@
   category: Currently Reading
   author: Stephen King
   isbn: 978-0307743657
-  Rating: TBD
+  rating: TBD
   date_added: 2019.2.22
   date_started: 2019.2.22
   date_finished: 
@@ -11,7 +11,7 @@
   category: Want to Read
   author: Jennifer Egan
   isbn: 
-  Rating: TBD
+  rating: TBD
   date_added: 2019.2.21
   date_started: 
   date_finished: 
@@ -20,7 +20,7 @@
   category: Currently Reading
   author: David Gregory Roberts
   isbn: 
-  Rating: TBD
+  rating: TBD
   date_added: 2019.2.09 
   date_started: 2019.2.22
   date_finished:
@@ -38,16 +38,25 @@
   category: Want to Read
   author: Erin Morgenstern
   isbn: 
-  Rating: TBD
+  rating: TBD
   date_added: 2019.2.09 
   date_started: 
   date_finished:
 
-- title: Bad Blood Secrets & Lies in a Sillicon Valley Startup
+- title: Bad Blood, Secrets & Lies in a Sillicon Valley Startup
   category: Currently Reading
   author: John Carreyrou
   isbn: 
-  Rating: TBD
+  rating: TBD
   date_added: 2019.2.04 
   date_started: 2019.4.27
+  date_finished:
+
+- title: BART, The Dramatic History of the Bay Area Rapid Transit System
+  category: Want to Read
+  author: Michael C. Healy
+  isbn: 
+  rating: TBD
+  date_added: 2019.2.04 
+  date_started: 
   date_finished:
