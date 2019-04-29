@@ -14,7 +14,7 @@ title: Andrew Tramposch | Books
     <div class="col-md font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Started</div>
 </div>
 <div class="pb-2">
-    {% assign sorted = (site.data.books | sort: 'date_started') | reverse %} {% for book in sorted %}
+    {% assign sorted = site.data.books | sort: 'date_started' | reverse %} {% for book in sorted %}
     {% if book.category == "Currently Reading" %}
     <div class="row">
         <div class="col-md-3">
@@ -59,7 +59,7 @@ title: Andrew Tramposch | Books
     <div class="col-md font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Added</div>
 </div>
 <div class="pb-2">
-    {% assign sorted = (site.data.books | sort: 'date_added') | reverse %} {% for book in sorted %}
+    {% assign sorted = site.data.books | sort: 'date_added' | reverse %} {% for book in sorted %}
     {% if book.category == "Want to Read" %}
     <div class="row">
         <div class="col-md-3">
@@ -103,7 +103,7 @@ title: Andrew Tramposch | Books
     <div class="col-md font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Rating</div>
     <div class="col-md font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Finished</div>
 </div>
-{% assign sorted = (site.data.books | sort: 'date_finished') | reverse %} {% for book in sorted %}
+{% assign sorted = site.data.books | sort: 'date_finished' | reverse %} {% for book in sorted %}
 {% if book.category == "Read" %}
 <div class="row">
     <div class="col-md-3">

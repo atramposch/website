@@ -3,72 +3,226 @@
   author: Stephen King
   isbn: 978-0307743657
   rating: TBD
-  date_added: 2019.2.22
-  date_started: 2019.2.22
+  date_added: 2019.02.22
+  date_started: 2019.02.22
   date_finished: 
 
 - title: A Visit from the Good Squad
   category: Want to Read
   author: Jennifer Egan
-  isbn: 
+  isbn: 978-0307477477
   rating: TBD
-  date_added: 2019.2.21
+  date_added: 2019.02.21
   date_started: 
   date_finished: 
 
 - title: Shantaram
   category: Currently Reading
   author: David Gregory Roberts
-  isbn: 
+  isbn: 978-8365282316
   rating: TBD
-  date_added: 2019.2.09 
-  date_started: 2019.2.22
+  date_added: 2019.02.09 
+  date_started: 2019.02.22
   date_finished:
 
 - title: Valley of Genius
   category: Read
   author: Adam Fisher
-  isbn: 
+  isbn: 978-1455559022
   rating: 4
-  date_added: 2019.2.04
-  date_started: 2019.2.04
-  date_finished: 2019.2.22
+  date_added: 2019.02.04
+  date_started: 2019.02.04
+  date_finished: 2019.02.22
 
 - title: The Night Circus
   category: Want to Read
   author: Erin Morgenstern
-  isbn: 
+  isbn: 978-0307744432
   rating: TBD
-  date_added: 2019.2.09 
+  date_added: 2019.02.09 
   date_started: 
   date_finished:
 
-- title: Bad Blood, Secrets & Lies in a Sillicon Valley Startup
+- title: Bad Blood
   category: Currently Reading
   author: John Carreyrou
-  isbn: 
+  isbn: 978-1524731656
   rating: TBD
-  date_added: 2019.2.04 
-  date_started: 2019.4.27
+  date_added: 2019.02.04 
+  date_started: 2019.04.27
   date_finished:
 
 - title: BART, The Dramatic History of the Bay Area Rapid Transit System
   category: Want to Read
   author: Michael C. Healy
-  isbn: 
+  isbn: 978-1597143707
   rating: TBD
-  date_added: 2019.2.04 
+  date_added: 2019.02.04 
   date_started: 
   date_finished:
 
 - title: Sharp Objects
   category: Want to Read
   author: Michael C. Healy
-  isbn: 
+  isbn: 978-0307341556
   rating: TBD
-  date_added: 2019.2.04 
+  date_added: 2019.02.04 
   date_started: 
   date_finished:
+
+- title: Walden
+  category: Want to Read
+  author: Henry David Thoreau
+  isbn: 978-1729091067
+  rating: TBD
+  date_added: 2019.02.04 
+  date_started: 
+  date_finished:
+
+- title: The Stranger in the Woods
+  author: Michael Finkel
+  isbn: 978-1101911532
+  rating: TBD
+  date_added: 2019.02.04 
+  date_started: 
+  date_finished:
+
+- title: Winter's Tale
+  category: Want to Read
+  author: Mark Helprin
+  isbn: 978-0156031196
+  rating: TBD
+  date_added: 2019.02.04 
+  date_started: 
+  date_finished:
+
+- title: Dark Places
+  category: Want to Read
+  author: Gillian Flynn
+  isbn: 978-0307341570
+  rating: TBD
+  date_added: 2019.02.04 
+  date_started: 
+  date_finished:
+
+- title: Dark Matter
+  category: Want to Read
+  author: Black Crouch
+  isbn: 978-1524763244
+  rating: TBD
+  date_added: 2019.02.04 
+  date_started: 
+  date_finished:
+
+- title: Men Without Women
+  category: Want to Read
+  author: Haruki Murakami
+  isbn: 978-1101974520
+  rating: TBD
+  date_added: 2019.02.04 
+  date_started: 
+  date_finished:
+
+- title: Continential Divide, A History of American Mountaineering
+  category: Want to Read
+  author: Maurice Isserman
+  isbn: 978-0393068504
+  rating: TBD
+  date_added: 2019.02.04 
+  date_started: 
+  date_finished:
+
+- title: Kafka on the Shore
+  category: Want to Read
+  author: Haruki Murakami
+  isbn: 978-1400079278
+  rating: TBD
+  date_added: 2019.02.04 
+  date_started: 
+  date_finished:
+
+- title: City of Light
+  category: Read
+  author: Rupert Christiansen
+  isbn: 978-1541673397
+  rating: 4
+  date_added: 2019.02.03 
+  date_started: 
+  date_finished: 2019.02.21
+
+- title: Gone Girl
+  category: Read
+  author: Gillian Flynn
+  isbn: 978-0307588371
+  rating: 5
+  date_added: 2019.01.25 
+  date_started: 
+  date_finished: 2019.02.13
+
+- title: I'll Be Gone in the Dark
+  category: Read
+  author: Michelle McNamara
+  isbn: 978-0062319791
+  rating: 3
+  date_added: 2019.01.18
+  date_started: 
+  date_finished: 2019.01.25
+
+- title: The Book Thief
+  category: Read
+  author: Markus Zusak
+  isbn: 978-0375842207
+  rating: 4
+  date_added: 2019.01.06
+  date_started: 
+  date_finished: 2019.01.18
+
+- title: The Boatbuilder
+  category: Read
+  author: Daniel Gumbiner
+  isbn: 978-1944211554
+  rating: 4
+  date_added: 2019.01.03
+  date_started: 
+  date_finished: 2019.01.04
+
+- title: Beneath the Mountin
+  category: Read
+  author: Luca D'Andrea
+  isbn: 978-0857056900
+  rating: 4
+  date_added: 2018.07.22
+  date_started: 
+  date_finished: 2019.07.30
+
+- title: The Martian
+  category: Read
+  author: Andy Weir
+  isbn: 978-0553418026
+  rating: 5
+  date_added: 2019.02.04
+  date_started: 
+  date_finished: 2019.02.04
+
+- title: Ready Player One
+  category: Read
+  author: Ernest Cline
+  isbn: 978-0307887443
+  rating: 5
+  date_added: 2018.01.25 
+  date_started: 
+  date_finished: 2018.01.29
+
+- title: The Hobbit
+  category: Read
+  author: J.R.R. Tolkien
+  isbn: 978-0547928241
+  rating: 5
+  date_added: 2019.01.20
+  date_started: 
+  date_finished: 2018.01.25
+
+
 
 
 
