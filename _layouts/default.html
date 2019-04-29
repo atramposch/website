@@ -22,11 +22,11 @@
 				width="55"></a>
 		<div class="d-flex flex-row order-2 order-sm-3">
 			<ul class="navbar-nav flex-row">
-				<li class="nav-item"><a class="nav-link px-2" href="https://twitter.com/andrewtramposch"><i
+				<li class="nav-item"><a class="nav-link px-2 nbaranimation" href="https://twitter.com/andrewtramposch"><i
 							class="fab fa-twitter-square"></i></a></li>
-				<li class="nav-item"><a class="nav-link px-2" href="https://www.linkedin.com/in/atramposch/"><i
+				<li class="nav-item"><a class="nav-link px-2 nbaranimation" href="https://www.linkedin.com/in/atramposch/"><i
 							class="fab fa-linkedin"></i></a></li>
-				<li class="nav-item"><a class="nav-link px-2" href="https://github.com/atramposch"><i
+				<li class="nav-item"><a class="nav-link px-2 nbaranimation" href="https://github.com/atramposch"><i
 							class="fab fa-github"></i></a></li>
 			</ul>
 
@@ -40,7 +40,7 @@
 			<ul class="navbar-nav ml-auto">
 				{% for item in site.data.navigation %}
 				<li class="nav-item">
-					<a class="nav-link{% if item.name == page.nav %} active{% endif %}" id="nbar{{item.name}}"
+					<a class="nav-link{% if item.name == page.nav %} active{% endif %} nbaranimation"
 						href="{{ item.link }}">
 						{{ item.name }}
 					</a>
