@@ -16,7 +16,7 @@ title: Andrew Tramposch | Books
 <div class="pb-2">
     {% assign sorted = site.data.books | sort: 'date_started' | reverse %} {% for book in sorted %}
     {% if book.category == "Currently Reading" %}
-    <div class="row">
+    <div class="row min-size-borders">
         <div class="col-md-3">
             <div class="row">
                 <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Title</div>
@@ -61,7 +61,7 @@ title: Andrew Tramposch | Books
 <div class="pb-2">
     {% assign sorted = site.data.books | sort: 'date_added' | reverse %} {% for book in sorted %}
     {% if book.category == "Want to Read" %}
-    <div class="row">
+    <div class="row min-size-borders">
         <div class="col-md-3">
             <div class="row">
                 <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Title</div>
@@ -105,7 +105,7 @@ title: Andrew Tramposch | Books
 </div>
 {% assign sorted = site.data.books | sort: 'date_finished' | reverse %} {% for book in sorted %}
 {% if book.category == "Read" %}
-<div class="row">
+<div class="row min-size-borders">
     <div class="col-md-3">
         <div class="row">
             <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Title</div>
