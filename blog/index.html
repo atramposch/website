@@ -3,6 +3,11 @@ layout: default
 title: Andrew Tramposch | Blog
 nav: Blog
 ---
+{% assign psize = site.posts | size %}
+{% if psize == 2 %} 
+  <h1 class="text-center">No posts...yet. Stay Tuned.</h1>
+{% endif %}
+{% if psize > 0 %}
 <ul class="list-group">
 	{% for post in site.posts %}
 	<a href="{{ post.url }}" class="list-group-item list-group-item-action flex-column align-items-start shadow-sm">
@@ -19,4 +24,5 @@ nav: Blog
 		<p class="mb-0">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
 	</a>
 	{% endfor %}
+{% endif %}
 </ul>
