@@ -44,13 +44,13 @@
   date_finished:
 
 - title: Bad Blood
-  category: Currently Reading
+  category: Read
   author: John Carreyrou
   isbn: 978-1524731656
-  rating: TBD
+  rating: 5
   date_added: 2019.02.04 
   date_started: 2019.04.27
-  date_finished:
+  date_finished: 2019.05.03
 
 - title: BART, The Dramatic History of the Bay Area Rapid Transit System
   category: Want to Read
@@ -82,10 +82,10 @@
 - title: The Stranger in the Woods
   author: Michael Finkel
   isbn: 978-1101911532
-  rating: TBD
+  rating: 3
   date_added: 2019.02.04 
-  date_started: 
-  date_finished:
+  date_started: 2019.05.02
+  date_finished: 2019.05.05
 
 - title: Winter's Tale
   category: Want to Read
@@ -222,6 +222,14 @@
   date_started: 
   date_finished: 2018.01.25
 
+- title: Handbook for Sound Engineers
+  category: Currently Reading
+  author: Glen M. Ballou
+  isbn: 978-0415842938
+  rating: TBD
+  date_added: 2019.05.11
+  date_started: 
+  date_finished: 
 
 
 
