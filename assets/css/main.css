@@ -30,6 +30,43 @@
     border-color: rgba(0,0,0,0.15);
 }
 
+.grayshade1 {
+    color: rgb(217, 217, 217);
+}
+
+.grayshade2 {
+    color: rgb(191, 191, 191);
+}
+
+.grayshade3 {
+    color: rgb(166, 166, 166);
+}
+
+.grayshade4 {
+    color: rgb(140, 140, 140);
+}
+
+.grayshade5 {
+    color: rgb(115, 115, 115);
+}
+
+.grayshade6 {
+    color: rgb(89, 89, 89);
+}
+
+.grayshade7 {
+    color: rgb(64, 64, 64);
+}
+
+.grayshade8 {
+    color: rgb(38, 38, 38);
+}
+
+.grayshade9 {
+    color: rgb(13, 13, 13);
+}
+
+
 @media (max-width: 768px) {
 
     .min-size-borders {
