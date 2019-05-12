@@ -9,7 +9,7 @@ Simplicity is the best policy.
 
 All content is copyrighted by Andrew Tramposch 2019, all rights reserved. 
 
-Release 1.0 - 2019.05.11
-    * Initial Release
+- Release 1.0 - 2019.05.11 
+    - Initial Release
 
 
