@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
+<h6><a href="/blog/" class="badge badge-danger"><i class="fas fa-arrow-left"></i> Back</a></h6>
 <h1>{{ page.title }}</h1>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<a class="text-secondary font-weight-bold">{{ page.author }}</a>
+<p class="meta text-muted font-italic">{{ page.date_2 }}</p>
 
 <div class="post">
   {{ content }}

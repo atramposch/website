@@ -1,0 +1,79 @@
+#mainnav{
+    background-color: white;
+    /* padding-top: 0px;
+    padding-bottom: 0px; */
+}
+
+.nbaranimation{
+    transition: all 0.3s;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s;
+}
+
+.footer {
+    /* position: absolute; */
+    padding: 0.5rem;
+    font-size: 13px;
+    color: #ABB7B7;
+    background-color: #FFFFFF;
+    text-align: center;
+  }
+
+.container {
+    padding-bottom: 3rem;
+}
+
+.top-row-books {
+    /* background-color: rgba(0,0,0,0.05); */
+    border-style: solid;
+    border-width: 1px 0px 1px 0px;
+    border-color: rgba(0,0,0,0.15);
+}
+
+.grayshade1 {
+    color: rgb(217, 217, 217);
+}
+
+.grayshade2 {
+    color: rgb(191, 191, 191);
+}
+
+.grayshade3 {
+    color: rgb(166, 166, 166);
+}
+
+.grayshade4 {
+    color: rgb(140, 140, 140);
+}
+
+.grayshade5 {
+    color: rgb(115, 115, 115);
+}
+
+.grayshade6 {
+    color: rgb(89, 89, 89);
+}
+
+.grayshade7 {
+    color: rgb(64, 64, 64);
+}
+
+.grayshade8 {
+    color: rgb(38, 38, 38);
+}
+
+.grayshade9 {
+    color: rgb(13, 13, 13);
+}
+
+
+@media (max-width: 768px) {
+
+    .min-size-borders {
+        /* background-color: rgba(0,0,0,0.05); */
+        border-style: solid;
+        border-width: 1px 0px 1px 0px;
+        border-color: rgba(0,0,0,0.15);
+    }
+
+}

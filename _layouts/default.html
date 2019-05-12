@@ -1,28 +1,75 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about/">About</a></li>
-	        		<li><a href="/blog/">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:atramposch7@gmail.com">Email</a></li>
-	        		<li>Copyright Andrew Tramposch</li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>{{ page.title }}</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- CDN Link to Bootstrap 4.2.1 CSS -->
+	<link rel="stylesheet" type="text/css"
+		href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<!-- Link to local personal stylesheet -->
+	<link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+	<!-- Font Awesome CDN Link -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css"
+		integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+</head>
+
+<body>
+	<nav class="navbar sticky-top navbar-expand-sm mr-auto navbar-light" id="mainnav">
+		<a class="navbar-brand" href="https://www.andrewtramposch.com"><img src="/assets/logo.png" height="40"
+				width="55"></a>
+		<div class="d-flex flex-row order-2 order-sm-3">
+			<ul class="navbar-nav flex-row">
+				<li class="nav-item"><a class="nav-link px-2 nbaranimation" href="https://twitter.com/andrewtramposch"><i
+							class="fab fa-twitter-square"></i></a></li>
+				<li class="nav-item"><a class="nav-link px-2 nbaranimation" href="https://www.linkedin.com/in/atramposch/"><i
+							class="fab fa-linkedin"></i></a></li>
+				<li class="nav-item"><a class="nav-link px-2 nbaranimation" href="https://github.com/atramposch"><i
+							class="fab fa-github"></i></a></li>
+			</ul>
+
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+				aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+		</div>
+		<div class="collapse navbar-collapse order-3 order-sm-2" id="navbarNavDropdown">
+			<ul class="navbar-nav ml-auto">
+				{% for item in site.data.navigation %}
+				<li class="nav-item">
+					<a class="nav-link{% if item.name == page.nav %} active{% endif %} nbaranimation"
+						href="{{ item.link }}">
+						{{ item.name }}
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+
+	</nav>
+	<div class="container">
+
+		{{ content }}
+
+	</div>
+	<div class="footer fixed-bottom">
+
+		<i class="far fa-copyright"></i> 2019 Andrew Tramposch
+
+	</div>
+	<!-- JQuery CDN Link -->
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+		crossorigin="anonymous"></script>
+	<!-- Bootstrap JS Bundle CDN Link -->
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"
+		integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o"
+		crossorigin="anonymous"></script>
+	<!-- Local JS File for DOM Manipulation -->
+	<script src="/assets/js/main.js"></script>
+</body>
+
+</html>

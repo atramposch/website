@@ -1,5 +1,32 @@
 ---
 layout: default
-title: Blog
+title: Andrew Tramposch | Blog
+nav: Blog
 ---
-	<h1>Under Construction</h1>
+{% assign psize = site.posts | size %}
+{% if psize == 0 %}
+{% for i in (1..10) %}
+{% for j in (1..9) %}
+<h1 class="text-center grayshade{{j}}">No posts...yet. Stay Tuned.</h1>
+{% endfor %}
+{% endfor %}
+{% endif %}
+{% if psize > 0 %}
+<ul class="list-group">
+	{% for post in site.posts %}
+	<a href="{{ post.url }}" class="list-group-item list-group-item-action flex-column align-items-start shadow-sm">
+		<div class="d-flex w-100 justify-content-between">
+			<h5 class="mb-0 text-primary"><span class="align-middle">{{ post.title }}</span>
+				{% assign today_date = 'now' | date: '%s' %}
+				{% assign new_expire_date = post.new_expire_date | date: '%s' %}
+				{% if today_date < new_expire_date %}
+				<span class="badge badge-warning">NEW</span>
+				{% endif %}
+			</h5>
+			<h6><span class="badge badge-secondary">{{ post.date_2 }}</span></h6>
+		</div>
+		<p class="mb-0">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+	</a>
+	{% endfor %}
+	{% endif %}
+</ul>

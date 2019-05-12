@@ -1,0 +1,150 @@
+---
+layout: default
+title: Andrew Tramposch | Books
+---
+<h2>Books</h2>
+<hr>
+
+<h4>Currently Reading</h4>
+<div class="row">
+    <div class="col-md-3 font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Title</div>
+    <div class="col-md-3 font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Author</div>
+    <div class="col-md-3 font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">ISBN</div>
+    <div class="col-md font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Rating</div>
+    <div class="col-md font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Started</div>
+</div>
+<div class="pb-2">
+    {% assign sorted = site.data.books | sort: 'date_started' | reverse %} {% for book in sorted %}
+    {% if book.category == "Currently Reading" %}
+    <div class="row min-size-borders">
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Title</div>
+                <div class="col pt-1 pb-1">{{ book.title }}</div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Author</div>
+                <div class="col pt-1 pb-1">{{ book.author }}</div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">ISBN</div>
+                <div class="col pt-1 pb-1">{{ book.isbn }}</div>
+            </div>
+        </div>
+        <div class="col-md">
+            <div class="row">
+                <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Rating</div>
+                <div class="col pt-1 pb-1">{{ book.rating }}</div>
+            </div>
+        </div>
+        <div class="col-md">
+            <div class="row">
+                <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Started</div>
+                <div class="col pt-1 pb-1">{{ book.date_started }}</div>
+            </div>
+        </div>
+    </div>
+    {% endif %} {% endfor %}
+</div>
+<h4>Want to Read</h4>
+<div class="row">
+    <div class="col-md-3 font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Title</div>
+    <div class="col-md-3 font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Author</div>
+    <div class="col-md-3 font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">ISBN</div>
+    <div class="col-md font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Rating</div>
+    <div class="col-md font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Added</div>
+</div>
+<div class="pb-2">
+    {% assign sorted = site.data.books | sort: 'date_added' | reverse %} {% for book in sorted %}
+    {% if book.category == "Want to Read" %}
+    <div class="row min-size-borders">
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Title</div>
+                <div class="col pt-1 pb-1">{{ book.title }}</div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Author</div>
+                <div class="col pt-1 pb-1">{{ book.author }}</div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">ISBN</div>
+                <div class="col pt-1 pb-1">{{ book.isbn }}</div>
+            </div>
+        </div>
+        <div class="col-md">
+            <div class="row">
+                <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Rating</div>
+                <div class="col pt-1 pb-1">{{ book.rating }}</div>
+            </div>
+        </div>
+        <div class="col-md">
+            <div class="row">
+                <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Added</div>
+                <div class="col pt-1 pb-1">{{ book.date_added }}</div>
+            </div>
+        </div>
+    </div>
+    {% endif %} {% endfor %}
+</div>
+<h4>Completed Reading</h4>
+<div class="row">
+    <div class="col-md-3 font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Title</div>
+    <div class="col-md-3 font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Author</div>
+    <div class="col-md-3 font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">ISBN</div>
+    <div class="col-md font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Rating</div>
+    <div class="col-md font-weight-bold top-row-books pb-1 pt-1 d-none d-md-block">Finished</div>
+</div>
+{% assign sorted = site.data.books | sort: 'date_finished' | reverse %} {% for book in sorted %}
+{% if book.category == "Read" %}
+<div class="row min-size-borders">
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Title</div>
+            <div class="col pt-1 pb-1">{{ book.title }}</div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Author</div>
+            <div class="col pt-1 pb-1">{{ book.author }}</div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="row">
+            <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">ISBN</div>
+            <div class="col pt-1 pb-1">{{ book.isbn }}</div>
+        </div>
+    </div>
+    <div class="col-md">
+        <div class="row">
+            <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Rating</div>
+            <div class="col pt-1 pb-1">{% if book.rating == 1 %}<i class="fas fa-star"></i><i class="far fa-star"></i><i
+                    class="far fa-star"></i><i class="far fa-star"></i><i
+                    class="far fa-star"></i>{% endif %}{% if book.rating == 2 %}<i class="fas fa-star"></i><i
+                    class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i
+                    class="far fa-star"></i>{% endif %}{% if book.rating == 3 %}<i class="fas fa-star"></i><i
+                    class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i
+                    class="far fa-star"></i>{% endif %}{% if book.rating == 4 %}<i class="fas fa-star"></i><i
+                    class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
+                    class="far fa-star"></i>{% endif %}{% if book.rating == 5 %}<i class="fas fa-star"></i><i
+                    class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
+                    class="fas fa-star"></i>{% endif %}</div>
+        </div>
+    </div>
+    <div class="col-md">
+        <div class="row">
+            <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Finished</div>
+            <div class="col pt-1 pb-1">{{ book.date_finished }}</div>
+        </div>
+    </div>
+</div>
+{% endif %} {% endfor %}
