@@ -193,7 +193,7 @@
   rating: 4
   date_added: 2018.07.22
   date_started: 
-  date_finished: 2019.07.30
+  date_finished: 2018.07.30
 
 - title: The Martian
   category: Read
@@ -202,7 +202,7 @@
   rating: 5
   date_added: 2019.02.04
   date_started: 
-  date_finished: 2019.02.04
+  date_finished: 2018.02.04
 
 - title: Ready Player One
   category: Read
@@ -228,9 +228,17 @@
   isbn: 978-0415842938
   rating: TBD
   date_added: 2019.05.11
-  date_started: 
+  date_started: 2019.05.11
   date_finished: 
 
+- title: The Amazing Adventures of Kavalier & Clay
+  category: Want to Read
+  author: Michael Chabon
+  isbn: 978-0812983586
+  rating: TBD
+  date_added: 2019.05.1
+  date_started: 2019.05.17
+  date_finished: 
 
 
 
