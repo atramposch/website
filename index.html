@@ -16,7 +16,7 @@ nav: Home
 <!-- Archival Listing of Homepage Posts -->
 <h5>Archive</h5>
 <div class="accordion" id="accordion">
-	{% assign sorted = site.data.musicvideos | sort: 'date' %} {% for video in sorted %} {% if video.current == "n" %}
+	{% assign sorted = site.data.musicvideos | sort: 'date' | reverse %} {% for video in sorted %} {% if video.current == "n" %}
 	<div class="card shadow">
 		<div class="card-header" id="{{video.song}}">
 			<h5 class="mb-0">
