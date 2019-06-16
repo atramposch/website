@@ -1,8 +1,15 @@
+- song: Seasons (Waiting on You)
+  artist: Future Islands
+  link: https://www.youtube.com/embed/-5Ae-LhMIG0
+  date: 2019.06.16
+  current: y
+  number: Seven
+
 - song: Candy May
   artist: Alex Cameron
   link: https://www.youtube.com/embed/KU01Rix_l2w
   date: 2019.05.27
-  current: y
+  current: n
   number: Six
 
 - song: Charcoal Baby
