@@ -1,8 +1,15 @@
+- song: Go Je Je
+  artist: Antibalas
+  link: https://www.youtube.com/embed/IKifeZ8yJ9s
+  date: 2019.10.12
+  current: y
+  number: Nine
+
 - song: Star Stuff
   artist: The Mattson 2
   link: https://www.youtube.com/embed/blz2IpGR1Sg
   date: 2019.07.13
-  current: y
+  current: n
   number: Eight
 
 - song: Seasons (Waiting on You)
