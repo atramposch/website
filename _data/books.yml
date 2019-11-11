@@ -2,10 +2,10 @@
   category: Currently Reading
   author: Stephen King
   isbn: 978-0307743657
-  rating: TBD
+  rating: 5
   date_added: 2019.02.22
   date_started: 2019.02.22
-  date_finished: 
+  date_finished: 2019.8.23
 
 - title: A Visit from the Good Squad
   category: Want to Read
@@ -231,22 +231,101 @@
   date_started: 2019.05.11
   date_finished: 
 
-- title: The Amazing Adventures of Kavalier & Clay
-  category: Want to Read
-  author: Michael Chabon
-  isbn: 978-0812983586
-  rating: TBD
-  date_added: 2019.05.17
-  date_started: 
-  date_finished: 
-
 - title: Shortest Way Home
-  category: Currently Reading
+  category: Read
   author: Pete Buttigieg
   isbn: 978-1631494369
-  rating: TBD
+  rating: 4
   date_added: 2019.03.27
   date_started: 2019.05.23
-  date_finished: 
+  date_finished: 2019.08.23
 
+- title: Kudos
+  category: Want to Read
+  author: Rachel Cusk
+  isbn: 978-1473524330
+  rating: TBD
+  date_added: 2019.05.03
+  date_started: 
+  date_finished:
 
+- title: The Swerve, How the World Became Modern
+  category: Want to Read
+  author: Stephen Greenblatt
+  isbn: 978-039343403
+  rating: TBD
+  date_added: 2019.05.03
+  date_started: 
+  date_finished:
+
+- title: The Swerve, How the World Became Modern
+  category: Want to Read
+  author: Stephen Greenblatt
+  isbn: 978-039343403
+  rating: TBD
+  date_added: 2019.05.03
+  date_started: 
+  date_finished:
+
+- title: Digital Minimalism, Choosing a Focused Life in a Noisy World
+  category: Want to Read
+  author: Cal Newport
+  isbn: 978-0525536512
+  rating: TBD
+  date_added: 2019.05.03
+  date_started: 
+  date_finished:
+
+- title: Digital Minimalism, Choosing a Focused Life in a Noisy World
+  category: Want to Read
+  author: Cal Newport
+  isbn: 978-0525536512
+  rating: TBD
+  date_added: 2019.05.03
+  date_started: 
+  date_finished:
+
+- title: Apertif, A Spirited Guide to the Drinks, History and Culture of the Apertif
+  category: Want to Read
+  author: Kate Hawkings
+  isbn: 978-1787131262
+  rating: TBD
+  date_added: 2019.08.01
+  date_started: 
+  date_finished:
+
+- title: The Power Broker, Robert Moses and the Fall of New York
+  category: Want to Read
+  author: Robert A. Caro
+  isbn: 978-0394720241
+  rating: TBD
+  date_added: 2019.11.07
+  date_started: 
+  date_finished:
+
+- title: Economics for the Common Good
+  category: Want to Read
+  author: Jean Tirole
+  isbn: 978-0691192253
+  rating: TBD
+  date_added: 2019.11.10
+  date_started: 
+  date_finished:
+
+- title: The Night Ocean
+  category: Want to Read
+  author: Paul La Farge
+  isbn: 978-1101981092
+  rating: TBD
+  date_added: 2019.11.10
+  date_started: 
+  date_finished:
+
+- title: On Grand Strategy
+  category: Want to Read
+  author: John Lewis Gaddis
+  isbn: 978-0143132516
+  rating: TBD
+  date_added: 2019.11.10
+  date_started: 
+  date_finished:

@@ -1,8 +1,15 @@
+- song: Both Ends Fixed
+  artist: Pan American
+  link: https://www.youtube.com/embed/7KSTwZNhMBw
+  date: 2019.11.10
+  current: y
+  number: Ten
+
 - song: Go Je Je
   artist: Antibalas
   link: https://www.youtube.com/embed/IKifeZ8yJ9s
   date: 2019.10.12
-  current: y
+  current: n
   number: Nine
 
 - song: Star Stuff
