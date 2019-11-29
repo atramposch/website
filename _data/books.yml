@@ -1,331 +1,350 @@
-- title: The Shining
+- !!python/object:book_class.Book
+  author: Caro, Robert A.
   category: Currently Reading
-  author: Stephen King
-  isbn: 978-0307743657
-  rating: 5
-  date_added: 2019.02.22
-  date_started: 2019.02.22
-  date_finished: 2019.8.23
-
-- title: A Visit from the Good Squad
-  category: Want to Read
-  author: Jennifer Egan
-  isbn: 978-0307477477
-  rating: TBD
-  date_added: 2019.02.21
-  date_started: 
-  date_finished: 
-
-- title: Shantaram
-  category: Currently Reading
-  author: David Gregory Roberts
-  isbn: 978-8365282316
-  rating: TBD
-  date_added: 2019.02.09 
-  date_started: 2019.02.22
-  date_finished:
-
-- title: Valley of Genius
-  category: Read
-  author: Adam Fisher
-  isbn: 978-1455559022
-  rating: 4
-  date_added: 2019.02.04
-  date_started: 2019.02.04
-  date_finished: 2019.02.22
-
-- title: The Night Circus
-  category: Want to Read
-  author: Erin Morgenstern
-  isbn: 978-0307744432
-  rating: TBD
-  date_added: 2019.02.09 
-  date_started: 
-  date_finished:
-
-- title: Bad Blood
-  category: Read
-  author: John Carreyrou
-  isbn: 978-1524731656
-  rating: 5
-  date_added: 2019.02.04 
-  date_started: 2019.04.27
-  date_finished: 2019.05.03
-
-- title: BART, The Dramatic History of the Bay Area Rapid Transit System
-  category: Want to Read
-  author: Michael C. Healy
-  isbn: 978-1597143707
-  rating: TBD
-  date_added: 2019.02.04 
-  date_started: 
-  date_finished:
-
-- title: Sharp Objects
-  category: Want to Read
-  author: Gillian Flynn
-  isbn: 978-0307341556
-  rating: TBD
-  date_added: 2019.02.04 
-  date_started: 
-  date_finished:
-
-- title: Walden
-  category: Want to Read
-  author: Henry David Thoreau
-  isbn: 978-1729091067
-  rating: TBD
-  date_added: 2019.02.04 
-  date_started: 
-  date_finished:
-
-- title: The Stranger in the Woods
-  author: Michael Finkel
-  isbn: 978-1101911532
-  rating: 3
-  date_added: 2019.02.04 
-  date_started: 2019.05.02
-  date_finished: 2019.05.05
-
-- title: Winter's Tale
-  category: Want to Read
-  author: Mark Helprin
-  isbn: 978-0156031196
-  rating: TBD
-  date_added: 2019.02.04 
-  date_started: 
-  date_finished:
-
-- title: Dark Places
-  category: Want to Read
-  author: Gillian Flynn
-  isbn: 978-0307341570
-  rating: TBD
-  date_added: 2019.02.04 
-  date_started: 
-  date_finished:
-
-- title: Dark Matter
-  category: Want to Read
-  author: Black Crouch
-  isbn: 978-1524763244
-  rating: TBD
-  date_added: 2019.02.04 
-  date_started: 
-  date_finished:
-
-- title: Men Without Women
-  category: Want to Read
-  author: Haruki Murakami
-  isbn: 978-1101974520
-  rating: TBD
-  date_added: 2019.02.04 
-  date_started: 
-  date_finished:
-
-- title: Continential Divide, A History of American Mountaineering
-  category: Want to Read
-  author: Maurice Isserman
-  isbn: 978-0393068504
-  rating: TBD
-  date_added: 2019.02.04 
-  date_started: 
-  date_finished:
-
-- title: Kafka on the Shore
-  category: Want to Read
-  author: Haruki Murakami
-  isbn: 978-1400079278
-  rating: TBD
-  date_added: 2019.02.04 
-  date_started: 
-  date_finished:
-
-- title: City of Light
-  category: Read
-  author: Rupert Christiansen
-  isbn: 978-1541673397
-  rating: 4
-  date_added: 2019.02.03 
-  date_started: 
-  date_finished: 2019.02.21
-
-- title: Gone Girl
-  category: Read
-  author: Gillian Flynn
-  isbn: 978-0307588371
-  rating: 5
-  date_added: 2019.01.25 
-  date_started: 
-  date_finished: 2019.02.13
-
-- title: I'll Be Gone in the Dark
-  category: Read
-  author: Michelle McNamara
-  isbn: 978-0062319791
-  rating: 3
-  date_added: 2019.01.18
-  date_started: 
-  date_finished: 2019.01.25
-
-- title: The Book Thief
-  category: Read
-  author: Markus Zusak
-  isbn: 978-0375842207
-  rating: 4
-  date_added: 2019.01.06
-  date_started: 
-  date_finished: 2019.01.18
-
-- title: The Boatbuilder
-  category: Read
-  author: Daniel Gumbiner
-  isbn: 978-1944211554
-  rating: 4
-  date_added: 2019.01.03
-  date_started: 
-  date_finished: 2019.01.04
-
-- title: Beneath the Mountin
-  category: Read
-  author: Luca D'Andrea
-  isbn: 978-0857056900
-  rating: 4
-  date_added: 2018.07.22
-  date_started: 
-  date_finished: 2018.07.30
-
-- title: The Martian
-  category: Read
-  author: Andy Weir
-  isbn: 978-0553418026
-  rating: 5
-  date_added: 2019.02.04
-  date_started: 
-  date_finished: 2018.02.04
-
-- title: Ready Player One
-  category: Read
-  author: Ernest Cline
-  isbn: 978-0307887443
-  rating: 5
-  date_added: 2018.01.25 
-  date_started: 
-  date_finished: 2018.01.29
-
-- title: The Hobbit
-  category: Read
-  author: J.R.R. Tolkien
-  isbn: 978-0547928241
-  rating: 5
-  date_added: 2019.01.20
-  date_started: 
-  date_finished: 2018.01.25
-
-- title: Handbook for Sound Engineers
-  category: Currently Reading
-  author: Glen M. Ballou
-  isbn: 978-0415842938
-  rating: TBD
-  date_added: 2019.05.11
-  date_started: 2019.05.11
-  date_finished: 
-
-- title: Shortest Way Home
-  category: Read
-  author: Pete Buttigieg
-  isbn: 978-1631494369
-  rating: 4
-  date_added: 2019.03.27
-  date_started: 2019.05.23
-  date_finished: 2019.08.23
-
-- title: Kudos
-  category: Want to Read
-  author: Rachel Cusk
-  isbn: 978-1473524330
-  rating: TBD
-  date_added: 2019.05.03
-  date_started: 
-  date_finished:
-
-- title: The Swerve, How the World Became Modern
-  category: Want to Read
-  author: Stephen Greenblatt
-  isbn: 978-039343403
-  rating: TBD
-  date_added: 2019.05.03
-  date_started: 
-  date_finished:
-
-- title: The Swerve, How the World Became Modern
-  category: Want to Read
-  author: Stephen Greenblatt
-  isbn: 978-039343403
-  rating: TBD
-  date_added: 2019.05.03
-  date_started: 
-  date_finished:
-
-- title: Digital Minimalism, Choosing a Focused Life in a Noisy World
-  category: Want to Read
-  author: Cal Newport
-  isbn: 978-0525536512
-  rating: TBD
-  date_added: 2019.05.03
-  date_started: 
-  date_finished:
-
-- title: Digital Minimalism, Choosing a Focused Life in a Noisy World
-  category: Want to Read
-  author: Cal Newport
-  isbn: 978-0525536512
-  rating: TBD
-  date_added: 2019.05.03
-  date_started: 
-  date_finished:
-
-- title: Apertif, A Spirited Guide to the Drinks, History and Culture of the Apertif
-  category: Want to Read
-  author: Kate Hawkings
-  isbn: 978-1787131262
-  rating: TBD
-  date_added: 2019.08.01
-  date_started: 
-  date_finished:
-
-- title: The Power Broker, Robert Moses and the Fall of New York
-  category: Want to Read
-  author: Robert A. Caro
-  isbn: 978-0394720241
-  rating: TBD
   date_added: 2019.11.07
-  date_started: 
-  date_finished:
-
-- title: Economics for the Common Good
-  category: Want to Read
-  author: Jean Tirole
-  isbn: 978-0691192253
+  date_finished: ''
+  date_started: 2019.11.24
+  isbn: '9780394480763'
+  page_count: '1246'
   rating: TBD
-  date_added: 2019.11.10
-  date_started: 
-  date_finished:
-
-- title: The Night Ocean
-  category: Want to Read
-  author: Paul La Farge
-  isbn: 978-1101981092
+  title: 'The Power Broker: Robert Moses and the Fall of New York'
+- !!python/object:book_class.Book
+  author: King, Stephen
+  category: Currently Reading
+  date_added: ''
+  date_finished: ''
+  date_started: 2019.02.22
+  isbn: '9780385528863'
+  page_count: '464'
   rating: TBD
-  date_added: 2019.11.10
-  date_started: 
-  date_finished:
-
-- title: On Grand Strategy
+  title: The Shining
+- !!python/object:book_class.Book
+  author: Clear, James
   category: Want to Read
-  author: John Lewis Gaddis
-  isbn: 978-0143132516
+  date_added: 2019.12.16
+  date_finished: ''
+  date_started: ''
+  isbn: '9780735211308'
+  page_count: '320'
   rating: TBD
+  title: Atomic Habits
+- !!python/object:book_class.Book
+  author: Gaddis, John Lewis
+  category: Want to Read
   date_added: 2019.11.10
-  date_started: 
-  date_finished:
+  date_finished: ''
+  date_started: ''
+  isbn: '9780143132516'
+  page_count: '384'
+  rating: TBD
+  title: On Grand Strategy
+- !!python/object:book_class.Book
+  author: LaFarge, Paul
+  category: Want to Read
+  date_added: 2019.11.10
+  date_finished: ''
+  date_started: ''
+  isbn: '9781101981085'
+  page_count: '389'
+  rating: TBD
+  title: The Night Ocean
+- !!python/object:book_class.Book
+  author: Tirole, Jean
+  category: Want to Read
+  date_added: 2019.11.10
+  date_finished: ''
+  date_started: ''
+  isbn: '9780691192253'
+  page_count: '584'
+  rating: TBD
+  title: Economics for the Common Good
+- !!python/object:book_class.Book
+  author: Hawkings, Kate
+  category: Want to Read
+  date_added: 2019.08.01
+  date_finished: ''
+  date_started: ''
+  isbn: '9781787132900'
+  page_count: '160'
+  rating: TBD
+  title: Aperitif
+- !!python/object:book_class.Book
+  author: Ballou, Glen
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781135016654'
+  page_count: '1784'
+  rating: TBD
+  title: Handbook for Sound Engineers
+- !!python/object:book_class.Book
+  author: Newport, Cal
+  category: Want to Read
+  date_added: 2019.05.03
+  date_finished: ''
+  date_started: ''
+  isbn: '9780525536543'
+  page_count: '304'
+  rating: TBD
+  title: Digital Minimalism
+- !!python/object:book_class.Book
+  author: Greenblatt, Stephen
+  category: Want to Read
+  date_added: 2019.05.03
+  date_finished: ''
+  date_started: ''
+  isbn: '9780393083385'
+  page_count: '368'
+  rating: TBD
+  title: 'The Swerve: How the World Became Modern'
+- !!python/object:book_class.Book
+  author: Cusk, Rachel
+  category: Want to Read
+  date_added: 2019.05.03
+  date_finished: ''
+  date_started: ''
+  isbn: '9780374714581'
+  page_count: '240'
+  rating: TBD
+  title: Kudos
+- !!python/object:book_class.Book
+  author: Morgenstern, Erin
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780385534642'
+  page_count: '384'
+  rating: TBD
+  title: The Night Circus
+- !!python/object:book_class.Book
+  author: Healy, Michael C.
+  category: Want to Read
+  date_added: 2019.02.04
+  date_finished: ''
+  date_started: ''
+  isbn: '9781597143707'
+  page_count: '365'
+  rating: TBD
+  title: BART
+- !!python/object:book_class.Book
+  author: Flynn, Gillian
+  category: Want to Read
+  date_added: 2019.02.04
+  date_finished: ''
+  date_started: ''
+  isbn: '9780307351487'
+  page_count: '272'
+  rating: TBD
+  title: Sharp Objects
+- !!python/object:book_class.Book
+  author: Komisar, Randy; Lineback, Kent L.
+  category: Want to Read
+  date_added: 2019.11.22
+  date_finished: ''
+  date_started: ''
+  isbn: '9781578511402'
+  page_count: '181'
+  rating: TBD
+  title: The Monk and the Riddle
+- !!python/object:book_class.Book
+  author: Thoreau, Henry David
+  category: Want to Read
+  date_added: 2019.02.04
+  date_finished: ''
+  date_started: ''
+  isbn: ''
+  page_count: '440'
+  rating: TBD
+  title: Walden
+- !!python/object:book_class.Book
+  author: Helprin, Mark
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781447270874'
+  page_count: '745'
+  rating: TBD
+  title: Winter's Tale
+- !!python/object:book_class.Book
+  author: Flynn, Gillian
+  category: Want to Read
+  date_added: 2019.02.04
+  date_finished: ''
+  date_started: ''
+  isbn: '9781101902882'
+  page_count: '542'
+  rating: TBD
+  title: Dark Places
+- !!python/object:book_class.Book
+  author: Crouch, Blake
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781101904220'
+  page_count: '342'
+  rating: TBD
+  title: Dark Matter
+- !!python/object:book_class.Book
+  author: Murakami, Haruki
+  category: Want to Read
+  date_added: 2019.02.04
+  date_finished: ''
+  date_started: ''
+  isbn: '9780451494634'
+  page_count: '240'
+  rating: TBD
+  title: Men Without Women
+- !!python/object:book_class.Book
+  author: Isserman, Maurice
+  category: Want to Read
+  date_added: 2019.02.04
+  date_finished: ''
+  date_started: ''
+  isbn: '9780393068504'
+  page_count: '436'
+  rating: TBD
+  title: Continental Divide
+- !!python/object:book_class.Book
+  author: Murakami, Haruki
+  category: Want to Read
+  date_added: 2019.02.04
+  date_finished: ''
+  date_started: ''
+  isbn: '9781400079278'
+  page_count: '467'
+  rating: TBD
+  title: Kafka on the Shore
+- !!python/object:book_class.Book
+  author: Fisher, Adam
+  category: Read
+  date_added: ''
+  date_finished: 2019.02.22
+  date_started: 2019.02.04
+  isbn: '9781538748633'
+  page_count: '411'
+  rating: '8'
+  title: Valley of Genius
+- !!python/object:book_class.Book
+  author: Carreyrou, John
+  category: Read
+  date_added: ''
+  date_finished: 2019.03.03
+  date_started: 2019.02.04
+  isbn: '9781524731663'
+  page_count: '352'
+  rating: '10'
+  title: Bad Blood
+- !!python/object:book_class.Book
+  author: Finkel, Michael
+  category: Read
+  date_added: ''
+  date_finished: 2019.03.05
+  date_started: 2019.02.04
+  isbn: '9781101875698'
+  page_count: '224'
+  rating: '10'
+  title: The Stranger in the Woods
+- !!python/object:book_class.Book
+  author: Christiansen, Rupert
+  category: Read
+  date_added: ''
+  date_finished: 2019.02.21
+  date_started: 2019.02.03
+  isbn: '9781541673465'
+  page_count: '125'
+  rating: '8'
+  title: City of Light
+- !!python/object:book_class.Book
+  author: Flynn, Gillian
+  category: Read
+  date_added: ''
+  date_finished: 2019.02.13
+  date_started: 2019.01.25
+  isbn: '9780606270175'
+  page_count: '422'
+  rating: '10'
+  title: Gone Girl
+- !!python/object:book_class.Book
+  author: McNamara, Michelle
+  category: Read
+  date_added: ''
+  date_finished: 2019.01.25
+  date_started: 2019.01.18
+  isbn: '9780062916310'
+  page_count: '368'
+  rating: '6'
+  title: I'll Be Gone in the Dark
+- !!python/object:book_class.Book
+  author: Zusak, Markus
+  category: Read
+  date_added: ''
+  date_finished: 2019.01.18
+  date_started: 2019.01.06
+  isbn: '9781473541870'
+  page_count: '560'
+  rating: '8'
+  title: The Book Thief
+- !!python/object:book_class.Book
+  author: Gumbiner, Daniel
+  category: Read
+  date_added: ''
+  date_finished: 2019.01.04
+  date_started: 2019.01.03
+  isbn: '9781944211547'
+  page_count: '256'
+  rating: '8'
+  title: The Boatbuilder
+- !!python/object:book_class.Book
+  author: D'Andrea, Luca
+  category: Read
+  date_added: ''
+  date_finished: 2018.07.30
+  date_started: 2018.07.22
+  isbn: '9780062680174'
+  page_count: '400'
+  rating: '8'
+  title: Beneath the Mountain
+- !!python/object:book_class.Book
+  author: Weir, Andy
+  category: Read
+  date_added: ''
+  date_finished: 2018.02.04
+  date_started: 2018.02.04
+  isbn: '9780804139038'
+  page_count: '400'
+  rating: '10'
+  title: The Martian
+- !!python/object:book_class.Book
+  author: Cline, Ernest
+  category: Read
+  date_added: ''
+  date_finished: 2018.01.29
+  date_started: 2018.01.25
+  isbn: '9780307887450'
+  page_count: '384'
+  rating: '10'
+  title: Ready Player One
+- !!python/object:book_class.Book
+  author: Tolkien, John Ronald Reuel
+  category: Read
+  date_added: ''
+  date_finished: 2018.01.20
+  date_started: 2017.12.23
+  isbn: '9780345339683'
+  page_count: '304'
+  rating: '10'
+  title: The Hobbit, Or, There and Back Again
+- !!python/object:book_class.Book
+  author: Frost, Mark
+  category: Read
+  date_added: ''
+  date_finished: 2018.02.01
+  date_started: 2018.01.01
+  isbn: '9781250075598'
+  page_count: '304'
+  rating: '10'
+  title: The Secret History of Twin Peaks
