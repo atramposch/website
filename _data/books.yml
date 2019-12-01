@@ -71,7 +71,7 @@
 - !!python/object:book_class.Book
   author: Ballou, Glen
   category: Want to Read
-  date_added: ''
+  date_added: 2019.06.24
   date_finished: ''
   date_started: ''
   isbn: '9781135016654'
@@ -111,7 +111,7 @@
 - !!python/object:book_class.Book
   author: Morgenstern, Erin
   category: Want to Read
-  date_added: ''
+  date_added: 2019.02.04
   date_finished: ''
   date_started: ''
   isbn: '9780385534642'
@@ -154,14 +154,14 @@
   date_added: 2019.02.04
   date_finished: ''
   date_started: ''
-  isbn: ''
+  isbn: '9781729091067'
   page_count: '440'
   rating: TBD
   title: Walden
 - !!python/object:book_class.Book
   author: Helprin, Mark
   category: Want to Read
-  date_added: ''
+  date_added: 2018.7..2
   date_finished: ''
   date_started: ''
   isbn: '9781447270874'
@@ -181,7 +181,7 @@
 - !!python/object:book_class.Book
   author: Crouch, Blake
   category: Want to Read
-  date_added: ''
+  date_added: 2018.07.22
   date_finished: ''
   date_started: ''
   isbn: '9781101904220'
