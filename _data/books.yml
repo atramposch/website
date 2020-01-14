@@ -219,6 +219,137 @@
   rating: TBD
   title: Kafka on the Shore
 - !!python/object:book_class.Book
+  author: Currid-Halkett, Elizabeth
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781400884698'
+  page_count: '272'
+  rating: TBD
+  title: The Sum of Small Things
+- !!python/object:book_class.Book
+  author: Strickler, Yancey
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780525560821'
+  page_count: '304'
+  rating: TBD
+  title: This Could Be Our Future
+- !!python/object:book_class.Book
+  author: Anderson, Elizabeth
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780674931909'
+  page_count: '245'
+  rating: TBD
+  title: Value in Ethics and Economics
+- !!python/object:book_class.Book
+  author: Herbert, Frank
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780441013593'
+  page_count: '528'
+  rating: TBD
+  title: Dune
+- !!python/object:book_class.Book
+  author: Veblen, Thorstein
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781473398856'
+  page_count: '444'
+  rating: TBD
+  title: 'The Theory of the Leisure Class (Essential Economics Series: Celebrated
+    Economists)'
+- !!python/object:book_class.Book
+  author: Smith, Patti
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780747568766'
+  page_count: '288'
+  rating: TBD
+  title: Just Kids
+- !!python/object:book_class.Book
+  author: Tartt, Donna
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780349139630'
+  page_count: '864'
+  rating: TBD
+  title: The Goldfinch
+- !!python/object:book_class.Book
+  author: Wade, Simeon
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781597144636'
+  page_count: '144'
+  rating: TBD
+  title: Foucault in California
+- !!python/object:book_class.Book
+  author: Alderman, Naomi
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780316547659'
+  page_count: '416'
+  rating: TBD
+  title: The Power
+- !!python/object:book_class.Book
+  author: Groff, Lauren
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781594634475'
+  page_count: '390'
+  rating: TBD
+  title: Fates and Furies
+- !!python/object:book_class.Book
+  author: Humes, Edward
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780062372093'
+  page_count: '384'
+  rating: TBD
+  title: Door to Door
+- !!python/object:book_class.Book
+  author: Petzinger, Thomas
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780812928358'
+  page_count: '594'
+  rating: TBD
+  title: Hard Landing
+- !!python/object:book_class.Book
+  author: Lowrey, Annie
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781524758776'
+  page_count: '263'
+  rating: TBD
+  title: Give People Money
+- !!python/object:book_class.Book
   author: Fisher, Adam
   category: Read
   date_added: ''

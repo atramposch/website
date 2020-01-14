@@ -1,8 +1,14 @@
+- song: Essence of Sapphire
+  artist: Dorothy Ashby
+  link: https://www.youtube.com/embed/MEUzOWF9aD0
+  date: 2020.1.13
+  current: y
+  number: Eleven
 - song: Both Ends Fixed
   artist: Pan American
   link: https://www.youtube.com/embed/7KSTwZNhMBw
   date: 2019.11.10
-  current: y
+  current: n
   number: Ten
 
 - song: Go Je Je
