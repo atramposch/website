@@ -1,8 +1,15 @@
+- song: Midnight Blue
+  artist: Kenny Burrell
+  link: https://www.youtube.com/embed/eNWDwOsQqlw
+  date: 2020.5.03
+  current: y
+  number: Twelve
+
 - song: Essence of Sapphire
   artist: Dorothy Ashby
   link: https://www.youtube.com/embed/MEUzOWF9aD0
   date: 2020.1.13
-  current: y
+  current: n
   number: Eleven
   
 - song: Both Ends Fixed
