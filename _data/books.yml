@@ -201,7 +201,7 @@
 - !!python/object:book_class.Book
   author: Currid-Halkett, Elizabeth
   category: Want to Read
-  date_added: ''
+  date_added: 2019.12.01
   date_finished: ''
   date_started: ''
   isbn: '9781400884698'
@@ -292,7 +292,7 @@
 - !!python/object:book_class.Book
   author: Groff, Lauren
   category: Want to Read
-  date_added: ''
+  date_added: 2020.04.05
   date_finished: ''
   date_started: ''
   isbn: '9781594634475'
