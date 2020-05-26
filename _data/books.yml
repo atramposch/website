@@ -1,24 +1,4 @@
 - !!python/object:book_class.Book
-  author: Caro, Robert A.
-  category: Currently Reading
-  date_added: 2019.11.07
-  date_finished: ''
-  date_started: 2019.11.24
-  isbn: '9780394480763'
-  page_count: '1246'
-  rating: TBD
-  title: 'The Power Broker: Robert Moses and the Fall of New York'
-- !!python/object:book_class.Book
-  author: King, Stephen
-  category: Currently Reading
-  date_added: ''
-  date_finished: ''
-  date_started: 2019.02.22
-  isbn: '9780385528863'
-  page_count: '464'
-  rating: TBD
-  title: The Shining
-- !!python/object:book_class.Book
   author: Clear, James
   category: Want to Read
   date_added: 2019.12.16
@@ -350,6 +330,146 @@
   rating: TBD
   title: Give People Money
 - !!python/object:book_class.Book
+  author: Dalio, Ray
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781982112387'
+  page_count: '592'
+  rating: TBD
+  title: Principles
+- !!python/object:book_class.Book
+  author: Watts, Duncan J.
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781848872158'
+  page_count: '320'
+  rating: TBD
+  title: Everything is Obvious
+- !!python/object:book_class.Book
+  author: Duckworth, Angela
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781501111129'
+  page_count: '352'
+  rating: TBD
+  title: Grit
+- !!python/object:book_class.Book
+  author: Clark, John Drury
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780813585246'
+  page_count: '217'
+  rating: TBD
+  title: Ignition!
+- !!python/object:book_class.Book
+  author: Caro, Robert A.
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780525656357'
+  page_count: '240'
+  rating: TBD
+  title: Working
+- !!python/object:book_class.Book
+  author: Snapes, Richard; Harrington, Grant; Hemingway, Eve
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781787132948'
+  page_count: '224'
+  rating: TBD
+  title: Bread & Butter
+- !!python/object:book_class.Book
+  author: Cipolla, Carlo M.
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780385546485'
+  page_count: '96'
+  rating: TBD
+  title: The Basic Laws of Human Stupidity
+- !!python/object:book_class.Book
+  author: Ash, Alec
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781628727654'
+  page_count: '336'
+  rating: TBD
+  title: Wish Lanterns
+- !!python/object:book_class.Book
+  author: Pomfret, John
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780805092509'
+  page_count: '693'
+  rating: TBD
+  title: The Beautiful Country and the Middle Kingdom
+- !!python/object:book_class.Book
+  author: Higginbotham, Adam
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781501134630'
+  page_count: '560'
+  rating: TBD
+  title: Midnight in Chernobyl
+- !!python/object:book_class.Book
+  author: Odell, Jenny
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781612197494'
+  page_count: '256'
+  rating: TBD
+  title: How to Do Nothing
+- !!python/object:book_class.Book
+  author: Lowrey, Annie
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9781524758783'
+  page_count: '272'
+  rating: TBD
+  title: Give People Money
+- !!python/object:book_class.Book
+  author: Norman, Don
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780465072996'
+  page_count: '384'
+  rating: TBD
+  title: The Design of Everyday Things
+- !!python/object:book_class.Book
+  author: Alexander, Christopher
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780195024029'
+  page_count: '552'
+  rating: TBD
+  title: The Timeless Way of Building
+- !!python/object:book_class.Book
   author: Fisher, Adam
   category: Read
   date_added: ''
@@ -479,3 +599,13 @@
   page_count: '304'
   rating: '10'
   title: The Secret History of Twin Peaks
+- !!python/object:book_class.Book
+  author: Caro, Robert A.
+  category: Read
+  date_added: 2019.11.07
+  date_finished: 2020.05.23
+  date_started: 2019.11.24
+  isbn: '9780394480763'
+  page_count: '1246'
+  rating: TBD
+  title: 'The Power Broker: Robert Moses and the Fall of New York'
