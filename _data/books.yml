@@ -141,7 +141,7 @@
 - !!python/object:book_class.Book
   author: Helprin, Mark
   category: Want to Read
-  date_added: 2018.7..2
+  date_added: 2018.07.22
   date_finished: ''
   date_started: ''
   isbn: '9781447270874'
@@ -211,7 +211,7 @@
 - !!python/object:book_class.Book
   author: Strickler, Yancey
   category: Want to Read
-  date_added: ''
+  date_added: 2019.12.05
   date_finished: ''
   date_started: ''
   isbn: '9780525560821'
@@ -221,7 +221,7 @@
 - !!python/object:book_class.Book
   author: Anderson, Elizabeth
   category: Want to Read
-  date_added: ''
+  date_added: 2019.12.15
   date_finished: ''
   date_started: ''
   isbn: '9780674931909'
@@ -231,7 +231,7 @@
 - !!python/object:book_class.Book
   author: Herbert, Frank
   category: Want to Read
-  date_added: ''
+  date_added: 2019.12.20
   date_finished: ''
   date_started: ''
   isbn: '9780441013593'
@@ -241,7 +241,7 @@
 - !!python/object:book_class.Book
   author: Veblen, Thorstein
   category: Want to Read
-  date_added: ''
+  date_added: 2019.12.20
   date_finished: ''
   date_started: ''
   isbn: '9781473398856'
@@ -252,7 +252,7 @@
 - !!python/object:book_class.Book
   author: Smith, Patti
   category: Want to Read
-  date_added: ''
+  date_added: 2020.01.05
   date_finished: ''
   date_started: ''
   isbn: '9780747568766'
@@ -262,7 +262,7 @@
 - !!python/object:book_class.Book
   author: Tartt, Donna
   category: Want to Read
-  date_added: ''
+  date_added: 2019.12.27
   date_finished: ''
   date_started: ''
   isbn: '9780349139630'
@@ -272,7 +272,7 @@
 - !!python/object:book_class.Book
   author: Wade, Simeon
   category: Want to Read
-  date_added: ''
+  date_added: 2020.01.15
   date_finished: ''
   date_started: ''
   isbn: '9781597144636'
@@ -282,7 +282,7 @@
 - !!python/object:book_class.Book
   author: Alderman, Naomi
   category: Want to Read
-  date_added: ''
+  date_added: 2020.01.31
   date_finished: ''
   date_started: ''
   isbn: '9780316547659'
@@ -302,7 +302,7 @@
 - !!python/object:book_class.Book
   author: Humes, Edward
   category: Want to Read
-  date_added: ''
+  date_added: 2020.02.05
   date_finished: ''
   date_started: ''
   isbn: '9780062372093'
@@ -312,7 +312,7 @@
 - !!python/object:book_class.Book
   author: Petzinger, Thomas
   category: Want to Read
-  date_added: ''
+  date_added: 2020.02.10
   date_finished: ''
   date_started: ''
   isbn: '9780812928358'
@@ -322,7 +322,7 @@
 - !!python/object:book_class.Book
   author: Lowrey, Annie
   category: Want to Read
-  date_added: ''
+  date_added: 2020.02.11
   date_finished: ''
   date_started: ''
   isbn: '9781524758776'
@@ -332,7 +332,7 @@
 - !!python/object:book_class.Book
   author: Dalio, Ray
   category: Want to Read
-  date_added: ''
+  date_added: 2020.02.13
   date_finished: ''
   date_started: ''
   isbn: '9781982112387'
@@ -342,7 +342,7 @@
 - !!python/object:book_class.Book
   author: Watts, Duncan J.
   category: Want to Read
-  date_added: ''
+  date_added: 2020.02.17
   date_finished: ''
   date_started: ''
   isbn: '9781848872158'
@@ -352,7 +352,7 @@
 - !!python/object:book_class.Book
   author: Duckworth, Angela
   category: Want to Read
-  date_added: ''
+  date_added: 2020.02.24
   date_finished: ''
   date_started: ''
   isbn: '9781501111129'
@@ -362,7 +362,7 @@
 - !!python/object:book_class.Book
   author: Clark, John Drury
   category: Want to Read
-  date_added: ''
+  date_added: 2020.03.01
   date_finished: ''
   date_started: ''
   isbn: '9780813585246'
@@ -372,7 +372,7 @@
 - !!python/object:book_class.Book
   author: Caro, Robert A.
   category: Want to Read
-  date_added: ''
+  date_added: 2020.03.04
   date_finished: ''
   date_started: ''
   isbn: '9780525656357'
@@ -382,7 +382,7 @@
 - !!python/object:book_class.Book
   author: Snapes, Richard; Harrington, Grant; Hemingway, Eve
   category: Want to Read
-  date_added: ''
+  date_added: 2020.03.14
   date_finished: ''
   date_started: ''
   isbn: '9781787132948'
@@ -392,7 +392,7 @@
 - !!python/object:book_class.Book
   author: Cipolla, Carlo M.
   category: Want to Read
-  date_added: ''
+  date_added: 2020.04.19
   date_finished: ''
   date_started: ''
   isbn: '9780385546485'
@@ -402,7 +402,7 @@
 - !!python/object:book_class.Book
   author: Ash, Alec
   category: Want to Read
-  date_added: ''
+  date_added: 2020.04.26
   date_finished: ''
   date_started: ''
   isbn: '9781628727654'
@@ -412,7 +412,7 @@
 - !!python/object:book_class.Book
   author: Pomfret, John
   category: Want to Read
-  date_added: ''
+  date_added: 2020.04.26
   date_finished: ''
   date_started: ''
   isbn: '9780805092509'
@@ -422,7 +422,7 @@
 - !!python/object:book_class.Book
   author: Higginbotham, Adam
   category: Want to Read
-  date_added: ''
+  date_added: 2020.05.01
   date_finished: ''
   date_started: ''
   isbn: '9781501134630'
@@ -432,7 +432,7 @@
 - !!python/object:book_class.Book
   author: Odell, Jenny
   category: Want to Read
-  date_added: ''
+  date_added: 2020.05.10
   date_finished: ''
   date_started: ''
   isbn: '9781612197494'
@@ -442,7 +442,7 @@
 - !!python/object:book_class.Book
   author: Lowrey, Annie
   category: Want to Read
-  date_added: ''
+  date_added: 2020.05.17
   date_finished: ''
   date_started: ''
   isbn: '9781524758783'
@@ -452,7 +452,7 @@
 - !!python/object:book_class.Book
   author: Norman, Don
   category: Want to Read
-  date_added: ''
+  date_added: 2020.05.24
   date_finished: ''
   date_started: ''
   isbn: '9780465072996'
@@ -462,7 +462,7 @@
 - !!python/object:book_class.Book
   author: Alexander, Christopher
   category: Want to Read
-  date_added: ''
+  date_added: 2020.05.24
   date_finished: ''
   date_started: ''
   isbn: '9780195024029'
