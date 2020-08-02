@@ -1,4 +1,14 @@
 - !!python/object:book_class.Book
+  author: Norman, Don
+  category: Currently Reading
+  date_added: 2020.05.24
+  date_finished: ''
+  date_started: 2020.07.26
+  isbn: '9780465072996'
+  page_count: '384'
+  rating: TBD
+  title: The Design of Everyday Things
+- !!python/object:book_class.Book
   author: Clear, James
   category: Want to Read
   date_added: 2019.12.16
@@ -8,16 +18,6 @@
   page_count: '320'
   rating: TBD
   title: Atomic Habits
-- !!python/object:book_class.Book
-  author: Gaddis, John Lewis
-  category: Want to Read
-  date_added: 2019.11.10
-  date_finished: ''
-  date_started: ''
-  isbn: '9780143132516'
-  page_count: '384'
-  rating: TBD
-  title: On Grand Strategy
 - !!python/object:book_class.Book
   author: LaFarge, Paul
   category: Want to Read
@@ -59,16 +59,6 @@
   rating: TBD
   title: Handbook for Sound Engineers
 - !!python/object:book_class.Book
-  author: Newport, Cal
-  category: Want to Read
-  date_added: 2019.05.03
-  date_finished: ''
-  date_started: ''
-  isbn: '9780525536543'
-  page_count: '304'
-  rating: TBD
-  title: Digital Minimalism
-- !!python/object:book_class.Book
   author: Greenblatt, Stephen
   category: Want to Read
   date_added: 2019.05.03
@@ -78,26 +68,6 @@
   page_count: '368'
   rating: TBD
   title: 'The Swerve: How the World Became Modern'
-- !!python/object:book_class.Book
-  author: Cusk, Rachel
-  category: Want to Read
-  date_added: 2019.05.03
-  date_finished: ''
-  date_started: ''
-  isbn: '9780374714581'
-  page_count: '240'
-  rating: TBD
-  title: Kudos
-- !!python/object:book_class.Book
-  author: Morgenstern, Erin
-  category: Want to Read
-  date_added: 2019.02.04
-  date_finished: ''
-  date_started: ''
-  isbn: '9780385534642'
-  page_count: '384'
-  rating: TBD
-  title: The Night Circus
 - !!python/object:book_class.Book
   author: Healy, Michael C.
   category: Want to Read
@@ -228,16 +198,6 @@
   page_count: '245'
   rating: TBD
   title: Value in Ethics and Economics
-- !!python/object:book_class.Book
-  author: Herbert, Frank
-  category: Want to Read
-  date_added: 2019.12.20
-  date_finished: ''
-  date_started: ''
-  isbn: '9780441013593'
-  page_count: '528'
-  rating: TBD
-  title: Dune
 - !!python/object:book_class.Book
   author: Veblen, Thorstein
   category: Want to Read
@@ -430,16 +390,6 @@
   rating: TBD
   title: Midnight in Chernobyl
 - !!python/object:book_class.Book
-  author: Odell, Jenny
-  category: Want to Read
-  date_added: 2020.05.10
-  date_finished: ''
-  date_started: ''
-  isbn: '9781612197494'
-  page_count: '256'
-  rating: TBD
-  title: How to Do Nothing
-- !!python/object:book_class.Book
   author: Lowrey, Annie
   category: Want to Read
   date_added: 2020.05.17
@@ -450,16 +400,6 @@
   rating: TBD
   title: Give People Money
 - !!python/object:book_class.Book
-  author: Norman, Don
-  category: Want to Read
-  date_added: 2020.05.24
-  date_finished: ''
-  date_started: ''
-  isbn: '9780465072996'
-  page_count: '384'
-  rating: TBD
-  title: The Design of Everyday Things
-- !!python/object:book_class.Book
   author: Alexander, Christopher
   category: Want to Read
   date_added: 2020.05.24
@@ -469,6 +409,66 @@
   page_count: '552'
   rating: TBD
   title: The Timeless Way of Building
+- !!python/object:book_class.Book
+  author: Tolstoy, Leo
+  category: Want to Read
+  date_added: 2020.05.29
+  date_finished: ''
+  date_started: ''
+  isbn: '9780191624636'
+  page_count: '1392'
+  rating: TBD
+  title: War and Peace
+- !!python/object:book_class.Book
+  author: Kethledge, Raymond M.; Erwin, Michael S.
+  category: Want to Read
+  date_added: 2020.06.12
+  date_finished: ''
+  date_started: ''
+  isbn: '9781632866332'
+  page_count: '240'
+  rating: TBD
+  title: Lead Yourself First
+- !!python/object:book_class.Book
+  author: Rogowski, Gary
+  category: Want to Read
+  date_added: 2020.06.13
+  date_finished: ''
+  date_started: ''
+  isbn: '9781610353243'
+  page_count: '184'
+  rating: TBD
+  title: Handmade
+- !!python/object:book_class.Book
+  author: Immergut, Debra Jo
+  category: Want to Read
+  date_added: 2020.07.05
+  date_finished: ''
+  date_started: ''
+  isbn: '9780062747600'
+  page_count: '288'
+  rating: TBD
+  title: You Again
+- !!python/object:book_class.Book
+  author: Palahniuk, Chuck
+  category: Want to Read
+  date_added: 2020.07.05
+  date_finished: ''
+  date_started: ''
+  isbn: '9780393066395'
+  page_count: '224'
+  rating: TBD
+  title: 'Fight Club: A Novel'
+- !!python/object:book_class.Book
+  author: Litt, David
+  category: Want to Read
+  date_added: 2020.07.27
+  date_finished: ''
+  date_started: ''
+  isbn: '9780062879387'
+  page_count: '400'
+  rating: TBD
+  title: Democracy in One Book or Less
 - !!python/object:book_class.Book
   author: Fisher, Adam
   category: Read
@@ -609,3 +609,53 @@
   page_count: '1246'
   rating: '10'
   title: 'The Power Broker: Robert Moses and the Fall of New York'
+- !!python/object:book_class.Book
+  author: Gaddis, John Lewis
+  category: Read
+  date_added: 2019.11.10
+  date_finished: 2020.06.12
+  date_started: 2020.05.27
+  isbn: '9780143132516'
+  page_count: '384'
+  rating: '5'
+  title: On Grand Strategy
+- !!python/object:book_class.Book
+  author: Newport, Cal
+  category: Read
+  date_added: 2019.05.03
+  date_finished: 2020.06.13
+  date_started: 2020.06.12
+  isbn: '9780525536543'
+  page_count: '304'
+  rating: '7'
+  title: Digital Minimalism
+- !!python/object:book_class.Book
+  author: Odell, Jenny
+  category: Read
+  date_added: 2020.05.10
+  date_finished: 2020.06.30
+  date_started: 2020.06.13
+  isbn: '9781612197494'
+  page_count: '256'
+  rating: '5'
+  title: How to Do Nothing
+- !!python/object:book_class.Book
+  author: Herbert, Frank
+  category: Read
+  date_added: 2019.12.20
+  date_finished: 2020.07.15
+  date_started: 2020.06.30
+  isbn: '9780441013593'
+  page_count: '528'
+  rating: '10'
+  title: Dune
+- !!python/object:book_class.Book
+  author: Morgenstern, Erin
+  category: Read
+  date_added: 2019.02.04
+  date_finished: 2020.07.26
+  date_started: 2020.07.18
+  isbn: '9780385534642'
+  page_count: '384'
+  rating: '10'
+  title: The Night Circus

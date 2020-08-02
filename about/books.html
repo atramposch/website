@@ -127,17 +127,18 @@ title: Andrew Tramposch | Books
     <div class="col-md">
         <div class="row">
             <div class="col font-weight-bold d-block d-md-none d-lg-none d-xl-none pt-1 pb-1">Rating</div>
-            <div class="col pt-1 pb-1">{% if book.rating == '2' %}<i class="fas fa-star"></i><i class="far fa-star"></i><i
-                    class="far fa-star"></i><i class="far fa-star"></i><i
-                    class="far fa-star"></i>{% endif %}{% if book.rating == '4' %}<i class="fas fa-star"></i><i
-                    class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i
-                    class="far fa-star"></i>{% endif %}{% if book.rating == '6' %}<i class="fas fa-star"></i><i
-                    class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i
-                    class="far fa-star"></i>{% endif %}{% if book.rating == '8' %}<i class="fas fa-star"></i><i
-                    class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
-                    class="far fa-star"></i>{% endif %}{% if book.rating == '10' %}<i class="fas fa-star"></i><i
-                    class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
-                    class="fas fa-star"></i>{% endif %}</div>
+            <div class="col pt-1 pb-1">
+                {% if book.rating == '1' %}<i class="fas fa-star-half-alt"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>{% endif %}
+                {% if book.rating == '2' %}<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>{% endif %}
+                {% if book.rating == '3' %}<i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>{% endif %}
+                {% if book.rating == '4' %}<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>{% endif %}
+                {% if book.rating == '5' %}<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i><i class="far fa-star"></i><i class="far fa-star"></i>{% endif %}
+                {% if book.rating == '6' %}<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>{% endif %}
+                {% if book.rating == '7' %}<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i><i class="far fa-star"></i>{% endif %}
+                {% if book.rating == '8' %}<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i>{% endif %}
+                {% if book.rating == '9' %}<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>{% endif %}
+                {% if book.rating == '10' %}<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>{% endif %}
+            </div>
         </div>
     </div>
     <div class="col-md">
