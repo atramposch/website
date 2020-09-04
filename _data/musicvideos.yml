@@ -1,8 +1,15 @@
+- song: He Would Have Laughed
+  artist: Deerhunter
+  link: https://www.youtube.com/embed/nxNToLBSQAM
+  date: 2020.9.04
+  current: y
+  number: Fourteen
+
 - song: Black Car
   artist: Beach House
   link: https://www.youtube.com/embed/2yoBbTqnCPA
   date: 2020.8.01
-  current: y
+  current: n
   number: Thirteen
 
 - song: Midnight Blue
