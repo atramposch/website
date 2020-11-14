@@ -1,13 +1,13 @@
 - !!python/object:book_class.Book
-  author: Norman, Don
+  author: Tirole, Jean
   category: Currently Reading
-  date_added: 2020.05.24
+  date_added: 2019.11.10
   date_finished: ''
-  date_started: 2020.07.26
-  isbn: '9780465072996'
-  page_count: '384'
+  date_started: 2020.10.22
+  isbn: '9780691192253'
+  page_count: '584'
   rating: TBD
-  title: The Design of Everyday Things
+  title: Economics for the Common Good
 - !!python/object:book_class.Book
   author: Clear, James
   category: Want to Read
@@ -28,16 +28,6 @@
   page_count: '389'
   rating: TBD
   title: The Night Ocean
-- !!python/object:book_class.Book
-  author: Tirole, Jean
-  category: Want to Read
-  date_added: 2019.11.10
-  date_finished: ''
-  date_started: ''
-  isbn: '9780691192253'
-  page_count: '584'
-  rating: TBD
-  title: Economics for the Common Good
 - !!python/object:book_class.Book
   author: Hawkings, Kate
   category: Want to Read
@@ -68,16 +58,6 @@
   page_count: '368'
   rating: TBD
   title: 'The Swerve: How the World Became Modern'
-- !!python/object:book_class.Book
-  author: Healy, Michael C.
-  category: Want to Read
-  date_added: 2019.02.04
-  date_finished: ''
-  date_started: ''
-  isbn: '9781597143707'
-  page_count: '365'
-  rating: TBD
-  title: BART
 - !!python/object:book_class.Book
   author: Flynn, Gillian
   category: Want to Read
@@ -390,16 +370,6 @@
   rating: TBD
   title: Midnight in Chernobyl
 - !!python/object:book_class.Book
-  author: Lowrey, Annie
-  category: Want to Read
-  date_added: 2020.05.17
-  date_finished: ''
-  date_started: ''
-  isbn: '9781524758783'
-  page_count: '272'
-  rating: TBD
-  title: Give People Money
-- !!python/object:book_class.Book
   author: Alexander, Christopher
   category: Want to Read
   date_added: 2020.05.24
@@ -470,6 +440,106 @@
   rating: TBD
   title: Democracy in One Book or Less
 - !!python/object:book_class.Book
+  author: Carrey, Jim; Vachon, Dana
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9780525655985'
+  page_count: '272'
+  rating: TBD
+  title: Memoirs and Misinformation
+- !!python/object:book_class.Book
+  author: Unsworth, Emma Jane
+  category: Want to Read
+  date_added: 2020.8..8
+  date_finished: ''
+  date_started: ''
+  isbn: '9781982141950'
+  page_count: ''
+  rating: TBD
+  title: Grown Ups
+- !!python/object:book_class.Book
+  author: Boo, Katherine
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9788184756159'
+  page_count: '288'
+  rating: TBD
+  title: Behind the Beautiful Forever
+- !!python/object:book_class.Book
+  author: Norman, Don
+  category: Want to Read
+  date_added: 2020.05.24
+  date_finished: ''
+  date_started: ''
+  isbn: '9780465072996'
+  page_count: '384'
+  rating: TBD
+  title: The Design of Everyday Things
+- !!python/object:book_class.Book
+  author: Wilkerson, Isabel
+  category: Want to Read
+  date_added: 2020.09.20
+  date_finished: ''
+  date_started: ''
+  isbn: '9780141995472'
+  page_count: '496'
+  rating: TBD
+  title: Caste
+- !!python/object:book_class.Book
+  author: Ruff, Matt
+  category: Want to Read
+  date_added: 2020.09.20
+  date_finished: ''
+  date_started: ''
+  isbn: '9780062292087'
+  page_count: '400'
+  rating: TBD
+  title: Lovecraft Country
+- !!python/object:book_class.Book
+  author: Lewis, Michael
+  category: Want to Read
+  date_added: 2020.10.16
+  date_finished: ''
+  date_started: ''
+  isbn: '9780393066234'
+  page_count: '320'
+  rating: TBD
+  title: 'Moneyball: The Art of Winning an Unfair Game'
+- !!python/object:book_class.Book
+  author: McConaughey, Matthew
+  category: Want to Read
+  date_added: 2020.10.20
+  date_finished: ''
+  date_started: ''
+  isbn: '9780593139141'
+  page_count: '304'
+  rating: TBD
+  title: Greenlights
+- !!python/object:book_class.Book
+  author: Dahl, Roald
+  category: Want to Read
+  date_added: 2020.10.31
+  date_finished: ''
+  date_started: ''
+  isbn: '9780141960616'
+  page_count: '208'
+  rating: TBD
+  title: Charlie and the Chocolate Factory
+- !!python/object:book_class.Book
+  author: Plotch, Philip Mark
+  category: Want to Read
+  date_added: 2020.11.01
+  date_finished: ''
+  date_started: ''
+  isbn: '9780801453663'
+  page_count: '360'
+  rating: TBD
+  title: Last Subway
+- !!python/object:book_class.Book
   author: Fisher, Adam
   category: Read
   date_added: ''
@@ -477,7 +547,7 @@
   date_started: 2019.02.04
   isbn: '9781538748633'
   page_count: '411'
-  rating: '8'
+  rating: '4.0'
   title: Valley of Genius
 - !!python/object:book_class.Book
   author: Carreyrou, John
@@ -487,7 +557,7 @@
   date_started: 2019.02.04
   isbn: '9781524731663'
   page_count: '352'
-  rating: '10'
+  rating: '5.0'
   title: Bad Blood
 - !!python/object:book_class.Book
   author: Finkel, Michael
@@ -497,7 +567,7 @@
   date_started: 2019.02.04
   isbn: '9781101875698'
   page_count: '224'
-  rating: '10'
+  rating: '5.0'
   title: The Stranger in the Woods
 - !!python/object:book_class.Book
   author: Christiansen, Rupert
@@ -507,7 +577,7 @@
   date_started: 2019.02.03
   isbn: '9781541673465'
   page_count: '125'
-  rating: '8'
+  rating: '4.0'
   title: City of Light
 - !!python/object:book_class.Book
   author: Flynn, Gillian
@@ -517,7 +587,7 @@
   date_started: 2019.01.25
   isbn: '9780606270175'
   page_count: '422'
-  rating: '10'
+  rating: '5.0'
   title: Gone Girl
 - !!python/object:book_class.Book
   author: McNamara, Michelle
@@ -527,7 +597,7 @@
   date_started: 2019.01.18
   isbn: '9780062916310'
   page_count: '368'
-  rating: '6'
+  rating: '3.0'
   title: I'll Be Gone in the Dark
 - !!python/object:book_class.Book
   author: Zusak, Markus
@@ -537,7 +607,7 @@
   date_started: 2019.01.06
   isbn: '9781473541870'
   page_count: '560'
-  rating: '8'
+  rating: '4.0'
   title: The Book Thief
 - !!python/object:book_class.Book
   author: Gumbiner, Daniel
@@ -547,7 +617,7 @@
   date_started: 2019.01.03
   isbn: '9781944211547'
   page_count: '256'
-  rating: '8'
+  rating: '4.0'
   title: The Boatbuilder
 - !!python/object:book_class.Book
   author: D'Andrea, Luca
@@ -557,7 +627,7 @@
   date_started: 2018.07.22
   isbn: '9780062680174'
   page_count: '400'
-  rating: '8'
+  rating: '4.0'
   title: Beneath the Mountain
 - !!python/object:book_class.Book
   author: Weir, Andy
@@ -567,7 +637,7 @@
   date_started: 2018.02.04
   isbn: '9780804139038'
   page_count: '400'
-  rating: '10'
+  rating: '5.0'
   title: The Martian
 - !!python/object:book_class.Book
   author: Cline, Ernest
@@ -577,7 +647,7 @@
   date_started: 2018.01.25
   isbn: '9780307887450'
   page_count: '384'
-  rating: '10'
+  rating: '5.0'
   title: Ready Player One
 - !!python/object:book_class.Book
   author: Tolkien, John Ronald Reuel
@@ -587,7 +657,7 @@
   date_started: 2017.12.23
   isbn: '9780345339683'
   page_count: '304'
-  rating: '10'
+  rating: '5.0'
   title: The Hobbit, Or, There and Back Again
 - !!python/object:book_class.Book
   author: Frost, Mark
@@ -597,7 +667,7 @@
   date_started: 2018.01.01
   isbn: '9781250075598'
   page_count: '304'
-  rating: '10'
+  rating: '5.0'
   title: The Secret History of Twin Peaks
 - !!python/object:book_class.Book
   author: Caro, Robert A.
@@ -607,7 +677,7 @@
   date_started: 2019.11.24
   isbn: '9780394480763'
   page_count: '1246'
-  rating: '10'
+  rating: '5.0'
   title: 'The Power Broker: Robert Moses and the Fall of New York'
 - !!python/object:book_class.Book
   author: Gaddis, John Lewis
@@ -617,7 +687,7 @@
   date_started: 2020.05.27
   isbn: '9780143132516'
   page_count: '384'
-  rating: '5'
+  rating: '2.5'
   title: On Grand Strategy
 - !!python/object:book_class.Book
   author: Newport, Cal
@@ -627,7 +697,7 @@
   date_started: 2020.06.12
   isbn: '9780525536543'
   page_count: '304'
-  rating: '7'
+  rating: '3.5'
   title: Digital Minimalism
 - !!python/object:book_class.Book
   author: Odell, Jenny
@@ -637,7 +707,7 @@
   date_started: 2020.06.13
   isbn: '9781612197494'
   page_count: '256'
-  rating: '5'
+  rating: '2.5'
   title: How to Do Nothing
 - !!python/object:book_class.Book
   author: Herbert, Frank
@@ -647,7 +717,7 @@
   date_started: 2020.06.30
   isbn: '9780441013593'
   page_count: '528'
-  rating: '10'
+  rating: '5.0'
   title: Dune
 - !!python/object:book_class.Book
   author: Morgenstern, Erin
@@ -657,5 +727,25 @@
   date_started: 2020.07.18
   isbn: '9780385534642'
   page_count: '384'
-  rating: '10'
+  rating: '5.0'
   title: The Night Circus
+- !!python/object:book_class.Book
+  author: Dennings, Stephen
+  category: Read
+  date_added: 2020.09.12
+  date_finished: 2020.10.12
+  date_started: 2020.09.12
+  isbn: '9789387383180'
+  page_count: '336'
+  rating: '2.5'
+  title: The Age of Agile
+- !!python/object:book_class.Book
+  author: Healy, Michael C.
+  category: Read
+  date_added: 2019.02.04
+  date_finished: 2020.10.22
+  date_started: 2020.10.12
+  isbn: '9781597143707'
+  page_count: '365'
+  rating: '5.0'
+  title: BART

@@ -1,8 +1,15 @@
+- song: Ascenseur pour l'echafaud (full album)
+  artist: Miles Davis
+  link: https://www.youtube.com/embed/Wc4tT-55ZzI
+  date: 2020.11.14
+  current: y
+  number: Fifteen
+
 - song: He Would Have Laughed
   artist: Deerhunter
   link: https://www.youtube.com/embed/nxNToLBSQAM
   date: 2020.9.04
-  current: y
+  current: n
   number: Fourteen
 
 - song: Black Car
