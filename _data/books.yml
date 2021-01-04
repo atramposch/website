@@ -9,15 +9,15 @@
   rating: TBD
   title: Economics for the Common Good
 - !!python/object:book_class.Book
-  author: Clear, James
-  category: Want to Read
-  date_added: 2019.12.16
+  author: Plotch, Philip Mark
+  category: Currently Reading
+  date_added: 2020.11.01
   date_finished: ''
-  date_started: ''
-  isbn: '9780735211308'
-  page_count: '320'
+  date_started: 2021.01.03
+  isbn: '9780801453663'
+  page_count: '360'
   rating: TBD
-  title: Atomic Habits
+  title: Last Subway
 - !!python/object:book_class.Book
   author: LaFarge, Paul
   category: Want to Read
@@ -38,16 +38,6 @@
   page_count: '160'
   rating: TBD
   title: Aperitif
-- !!python/object:book_class.Book
-  author: Ballou, Glen
-  category: Want to Read
-  date_added: 2019.06.24
-  date_finished: ''
-  date_started: ''
-  isbn: '9781135016654'
-  page_count: '1784'
-  rating: TBD
-  title: Handbook for Sound Engineers
 - !!python/object:book_class.Book
   author: Greenblatt, Stephen
   category: Want to Read
@@ -270,16 +260,6 @@
   rating: TBD
   title: Give People Money
 - !!python/object:book_class.Book
-  author: Dalio, Ray
-  category: Want to Read
-  date_added: 2020.02.13
-  date_finished: ''
-  date_started: ''
-  isbn: '9781982112387'
-  page_count: '592'
-  rating: TBD
-  title: Principles
-- !!python/object:book_class.Book
   author: Watts, Duncan J.
   category: Want to Read
   date_added: 2020.02.17
@@ -442,7 +422,7 @@
 - !!python/object:book_class.Book
   author: Carrey, Jim; Vachon, Dana
   category: Want to Read
-  date_added: ''
+  date_added: 2020.11.04
   date_finished: ''
   date_started: ''
   isbn: '9780525655985'
@@ -459,16 +439,6 @@
   page_count: ''
   rating: TBD
   title: Grown Ups
-- !!python/object:book_class.Book
-  author: Boo, Katherine
-  category: Want to Read
-  date_added: ''
-  date_finished: ''
-  date_started: ''
-  isbn: '9788184756159'
-  page_count: '288'
-  rating: TBD
-  title: Behind the Beautiful Forever
 - !!python/object:book_class.Book
   author: Norman, Don
   category: Want to Read
@@ -489,16 +459,6 @@
   page_count: '496'
   rating: TBD
   title: Caste
-- !!python/object:book_class.Book
-  author: Ruff, Matt
-  category: Want to Read
-  date_added: 2020.09.20
-  date_finished: ''
-  date_started: ''
-  isbn: '9780062292087'
-  page_count: '400'
-  rating: TBD
-  title: Lovecraft Country
 - !!python/object:book_class.Book
   author: Lewis, Michael
   category: Want to Read
@@ -530,15 +490,245 @@
   rating: TBD
   title: Charlie and the Chocolate Factory
 - !!python/object:book_class.Book
-  author: Plotch, Philip Mark
+  author: Case, Anne; Deaton, Angus
   category: Want to Read
-  date_added: 2020.11.01
+  date_added: 2020.11.20
   date_finished: ''
   date_started: ''
-  isbn: '9780801453663'
-  page_count: '360'
+  isbn: '9780691190785'
+  page_count: '312'
   rating: TBD
-  title: Last Subway
+  title: Deaths of Despair and the Future of Capitalism
+- !!python/object:book_class.Book
+  author: Ehrenreich, Ben
+  category: Want to Read
+  date_added: 2020.11.20
+  date_finished: ''
+  date_started: ''
+  isbn: '9781640093539'
+  page_count: '336'
+  rating: TBD
+  title: Desert Notebooks
+- !!python/object:book_class.Book
+  author: Bump, Gabriel
+  category: Want to Read
+  date_added: 2020.11.20
+  date_finished: ''
+  date_started: ''
+  isbn: '9781616208790'
+  page_count: '272'
+  rating: TBD
+  title: Everywhere You Don't Belong
+- !!python/object:book_class.Book
+  author: Kuhn, David Paul
+  category: Want to Read
+  date_added: 2020.11.20
+  date_finished: ''
+  date_started: ''
+  isbn: '9780190064716'
+  page_count: '416'
+  rating: TBD
+  title: The Hardhat Riot
+- !!python/object:book_class.Book
+  author: Miller, Sue
+  category: Want to Read
+  date_added: 2020.11.20
+  date_finished: ''
+  date_started: ''
+  isbn: '9780062969675'
+  page_count: '352'
+  rating: TBD
+  title: Monogamy
+- !!python/object:book_class.Book
+  author: Taylor, Brandon
+  category: Want to Read
+  date_added: 2020.11.20
+  date_finished: ''
+  date_started: ''
+  isbn: '9780525538882'
+  page_count: '336'
+  rating: TBD
+  title: Real Life
+- !!python/object:book_class.Book
+  author: Pirsig, Robert M.
+  category: Want to Read
+  date_added: 2021.01.01
+  date_finished: ''
+  date_started: ''
+  isbn: '9780061907999'
+  page_count: '448'
+  rating: TBD
+  title: Zen and the Art of Motorcycle Maintenance
+- !!python/object:book_class.Book
+  author: Wiener, Anna
+  category: Want to Read
+  date_added: 2020.11.20
+  date_finished: ''
+  date_started: ''
+  isbn: '9780374719760'
+  page_count: '288'
+  rating: TBD
+  title: Uncanny Valley
+- !!python/object:book_class.Book
+  author: Greene, Brian
+  category: Want to Read
+  date_added: 2020.11.20
+  date_finished: ''
+  date_started: ''
+  isbn: '9781524731687'
+  page_count: '448'
+  rating: TBD
+  title: Until the End of Time
+- !!python/object:book_class.Book
+  author: MacMillan, Margaret
+  category: Want to Read
+  date_added: 2020.11.20
+  date_finished: ''
+  date_started: ''
+  isbn: '9781984856142'
+  page_count: '336'
+  rating: TBD
+  title: 'War: How Conflict Shaped Us'
+- !!python/object:book_class.Book
+  author: MacMillan, Margaret
+  category: Want to Read
+  date_added: 2020.11.20
+  date_finished: ''
+  date_started: ''
+  isbn: '9780307432964'
+  page_count: '624'
+  rating: TBD
+  title: Paris 1919
+- !!python/object:book_class.Book
+  author: Wells, Martha
+  category: Want to Read
+  date_added: 2020.11.20
+  date_finished: ''
+  date_started: ''
+  isbn: '9781250229847'
+  page_count: '352'
+  rating: TBD
+  title: Network Effect
+- !!python/object:book_class.Book
+  author: Durant, Will; Durant, Ariel
+  category: Want to Read
+  date_added: 2020.11.21
+  date_finished: ''
+  date_started: ''
+  isbn: '9781439170199'
+  page_count: '128'
+  rating: TBD
+  title: The Lessons of History
+- !!python/object:book_class.Book
+  author: Campbell, Joseph
+  category: Want to Read
+  date_added: 2020.11.21
+  date_finished: ''
+  date_started: ''
+  isbn: '9780586085714'
+  page_count: '416'
+  rating: TBD
+  title: The Hero with a Thousand Faces
+- !!python/object:book_class.Book
+  author: Wilson, Edward O.
+  category: Want to Read
+  date_added: 2020.11.23
+  date_finished: ''
+  date_started: ''
+  isbn: '9780871404800'
+  page_count: '208'
+  rating: TBD
+  title: The Meaning of Human Existence
+- !!python/object:book_class.Book
+  author: Beauregard, Mario; O'Leary, Denyse
+  category: Want to Read
+  date_added: 2020.11.23
+  date_finished: ''
+  date_started: ''
+  isbn: '9780061752759'
+  page_count: '384'
+  rating: TBD
+  title: The Spiritual Brain
+- !!python/object:book_class.Book
+  author: Grove, Andrew S.
+  category: Want to Read
+  date_added: 2020.11.24
+  date_finished: ''
+  date_started: ''
+  isbn: '9781101972366'
+  page_count: '272'
+  rating: TBD
+  title: High Output Management
+- !!python/object:book_class.Book
+  author: Haig, Matt
+  category: Want to Read
+  date_added: 2020.11.04
+  date_finished: ''
+  date_started: ''
+  isbn: '9780525559481'
+  page_count: '304'
+  rating: TBD
+  title: The Midnight Library
+- !!python/object:book_class.Book
+  author: Clegg, Brian
+  category: Want to Read
+  date_added: 2020.11.04
+  date_finished: ''
+  date_started: ''
+  isbn: '9780262539692'
+  page_count: '256'
+  rating: TBD
+  title: Everyday Chaos
+- !!python/object:book_class.Book
+  author: Filipovic, Jill
+  category: Want to Read
+  date_added: 2020.11.04
+  date_finished: ''
+  date_started: ''
+  isbn: '9781982153762'
+  page_count: '336'
+  rating: TBD
+  title: OK Boomer, Let's Talk
+- !!python/object:book_class.Book
+  author: Mars, Roman; Kohlstedt, Kurt
+  category: Want to Read
+  date_added: 2020.11.04
+  date_finished: ''
+  date_started: ''
+  isbn: '9780358125020'
+  page_count: '400'
+  rating: TBD
+  title: The 99% Invisible City
+- !!python/object:book_class.Book
+  author: Daub, Adrian
+  category: Want to Read
+  date_added: 2020.11.04
+  date_finished: ''
+  date_started: ''
+  isbn: '9780374721237'
+  page_count: '160'
+  rating: TBD
+  title: What Tech Calls Thinking
+- !!python/object:book_class.Book
+  author: Gruber, Jonathan; Johnson, Simon
+  category: Want to Read
+  date_added: 2020.12.16
+  date_finished: ''
+  date_started: ''
+  isbn: '9781541762503'
+  page_count: '368'
+  rating: TBD
+  title: Jump-Starting America
+- !!python/object:book_class.Book
+  author: Tevis, Walter
+  category: Want to Read
+  date_added: 2020.12.23
+  date_finished: ''
+  date_started: ''
+  isbn: '9780795343063'
+  page_count: '243'
+  rating: TBD
+  title: The Queen's Gambit
 - !!python/object:book_class.Book
   author: Fisher, Adam
   category: Read
@@ -749,3 +939,33 @@
   page_count: '365'
   rating: '5.0'
   title: BART
+- !!python/object:book_class.Book
+  author: Dalio, Ray
+  category: Read
+  date_added: 2020.02.13
+  date_finished: 2020.12.06
+  date_started: 2020.11.16
+  isbn: '9781982112387'
+  page_count: '592'
+  rating: '5.0'
+  title: Principles
+- !!python/object:book_class.Book
+  author: Konnikova, Maria
+  category: Read
+  date_added: 2020.11.20
+  date_finished: 2020.12.19
+  date_started: 2020.12.04
+  isbn: '9780525522621'
+  page_count: '368'
+  rating: '5.0'
+  title: The Biggest Bluff
+- !!python/object:book_class.Book
+  author: Ruff, Matt
+  category: Read
+  date_added: 2020.09.20
+  date_finished: 2021.01.03
+  date_started: 2020.12.19
+  isbn: '9780062292087'
+  page_count: '400'
+  rating: '5.0'
+  title: Lovecraft Country

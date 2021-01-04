@@ -1,35 +1,42 @@
+- song: Little Dark Age
+  artist: MGMT
+  link: https://www.youtube.com/embed/rtL5oMyBHPs
+  date: 2021.01.03
+  current: y
+  number: Sixteen
+
 - song: Ascenseur pour l'echafaud (full album)
   artist: Miles Davis
   link: https://www.youtube.com/embed/Wc4tT-55ZzI
   date: 2020.11.14
-  current: y
+  current: n
   number: Fifteen
 
 - song: He Would Have Laughed
   artist: Deerhunter
   link: https://www.youtube.com/embed/nxNToLBSQAM
-  date: 2020.9.04
+  date: 2020.09.04
   current: n
   number: Fourteen
 
 - song: Black Car
   artist: Beach House
   link: https://www.youtube.com/embed/2yoBbTqnCPA
-  date: 2020.8.01
+  date: 2020.08.01
   current: n
   number: Thirteen
 
 - song: Midnight Blue
   artist: Kenny Burrell
   link: https://www.youtube.com/embed/eNWDwOsQqlw
-  date: 2020.5.03
+  date: 2020.05.03
   current: n
   number: Twelve
 
 - song: Essence of Sapphire
   artist: Dorothy Ashby
   link: https://www.youtube.com/embed/MEUzOWF9aD0
-  date: 2020.1.13
+  date: 2020.01.13
   current: n
   number: Eleven
   
