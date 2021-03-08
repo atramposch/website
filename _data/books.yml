@@ -9,15 +9,15 @@
   rating: TBD
   title: Economics for the Common Good
 - !!python/object:book_class.Book
-  author: Plotch, Philip Mark
+  author: Kiyosaki, Robert T.
   category: Currently Reading
-  date_added: 2020.11.01
+  date_added: 2021.01.13
   date_finished: ''
-  date_started: 2021.01.03
-  isbn: '9780801453663'
-  page_count: '360'
+  date_started: 2021.02.20
+  isbn: '9781365108105'
+  page_count: '104'
   rating: TBD
-  title: Last Subway
+  title: Rich Dad, Poor Dad
 - !!python/object:book_class.Book
   author: LaFarge, Paul
   category: Want to Read
@@ -730,6 +730,46 @@
   rating: TBD
   title: The Queen's Gambit
 - !!python/object:book_class.Book
+  author: McCarthy, Cormac
+  category: Want to Read
+  date_added: 2021.01.19
+  date_finished: ''
+  date_started: ''
+  isbn: '9780307762528'
+  page_count: '368'
+  rating: TBD
+  title: Blood Meridian
+- !!python/object:book_class.Book
+  author: Higashide, Steven
+  category: Want to Read
+  date_added: 2021.01.22
+  date_finished: ''
+  date_started: ''
+  isbn: '9781642830156'
+  page_count: '184'
+  rating: TBD
+  title: Better Buses, Better Cities
+- !!python/object:book_class.Book
+  author: Shaughnessy, Dan
+  category: Want to Read
+  date_added: 2021.02.27
+  date_finished: ''
+  date_started: ''
+  isbn: '9780142004760'
+  page_count: '248'
+  rating: TBD
+  title: The Curse of the Bambino
+- !!python/object:book_class.Book
+  author: Clason, George Samuel
+  category: Want to Read
+  date_added: ''
+  date_finished: ''
+  date_started: ''
+  isbn: '9789562913782'
+  page_count: '116'
+  rating: TBD
+  title: The Richest Man in Babylon
+- !!python/object:book_class.Book
   author: Fisher, Adam
   category: Read
   date_added: ''
@@ -969,3 +1009,23 @@
   page_count: '400'
   rating: '5.0'
   title: Lovecraft Country
+- !!python/object:book_class.Book
+  author: Plotch, Philip Mark
+  category: Read
+  date_added: 2020.11.01
+  date_finished: 2021.01.15
+  date_started: 2021.01.03
+  isbn: '9780801453663'
+  page_count: '360'
+  rating: '5.0'
+  title: Last Subway
+- !!python/object:book_class.Book
+  author: Cline, Ernest
+  category: Read
+  date_added: 2021.01.22
+  date_finished: 2021.03.07
+  date_started: 2021.03.02
+  isbn: '9781524761356'
+  page_count: '384'
+  rating: '5.0'
+  title: Ready Player Two
