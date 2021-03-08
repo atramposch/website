@@ -2,14 +2,14 @@
   artist: Gorillaz
   link: https://www.youtube.com/embed/GNth4yhlffU
   date: 2021.03.07
-  current: Y
+  current: y
   number: Seventeen
 
 - song: Little Dark Age
   artist: MGMT
   link: https://www.youtube.com/embed/rtL5oMyBHPs
   date: 2021.01.03
-  current: N
+  current: n
   number: Sixteen
 
 - song: Ascenseur pour l'echafaud (full album)
