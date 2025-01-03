@@ -3,26 +3,26 @@ layout: default
 title: Andrew Tramposch | Home
 nav: Home
 ---
-
 <!-- Current Homepage Posting -->
-{% for video in site.data.musicvideos %}{% if video.current == "y" %} 
-<div class="embed-responsive embed-responsive-16by9">
+{% for video in site.data.musicvideos %}{% if video.current == "y" %}
+<div class="header-wrap embed-responsive embed-responsive-16by9">
 	<iframe class="embed-responsive-item" src="{{ video.link }}"
 		allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen></iframe>
 </div> {% endif %}{% endfor %}
-
 <hr>
 
 <!-- Archival Listing of Homepage Posts -->
 <h5>Archive</h5>
 <div class="accordion" id="accordion">
-	{% assign sorted = site.data.musicvideos | sort: 'date' | reverse %} {% for video in sorted %} {% if video.current == "n" %}
+	{% assign sorted = site.data.musicvideos | sort: 'date' | reverse %} {% for video in sorted %} {% if
+	video.current == "n" %}
 	<div class="card shadow">
 		<div class="card-header" id="{{video.song}}">
 			<h5 class="mb-0">
-				<button class="btn btn-link text-primary collapsed" data-toggle="collapse" data-target="#{{video.number}}"
-					aria-expanded="true" aria-controls="{{video.number}}">
-					{{ video.date}} - {{ video.artist }} - '{{ video.song }}'
+				<button class="btn btn-link collapsed"
+					data-toggle="collapse" data-target="#{{video.number}}" aria-expanded="true"
+					aria-controls="{{video.number}}">
+					{{ video.artist }} - '{{ video.song }}'
 				</button>
 			</h5>
 		</div>
@@ -31,9 +31,10 @@ nav: Home
 			<div class="card-body">
 				<div class="embed-responsive embed-responsive-16by9">
 					<iframe class="embed-responsive-item" src="{{video.link}}"
-						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;" allowfullscreen></iframe>
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;"
+						allowfullscreen></iframe>
 				</div>
 			</div>
 		</div>
-	</div> 	{% endif %}{% endfor %}
+	</div> {% endif %}{% endfor %}
 </div>

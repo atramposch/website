@@ -29,23 +29,35 @@ Typical XML Syntax:
     <child>
 </root>
 ~~~
-### XML Definition
-~~~xml
-<?xml version="1.0" encoding="UTF-8"?>
-~~~
-This is an optional field but usage is typical and its use is incredibly important to define the the metadata intended to be used in the XML file below this point. It contains the XML version attribute and the XML file encoding attribute. There is no closing tag required. 
+The structure of an XML document is a tree. Where the root element is at the top and the child elements are connected to the root elements.  There can be as many sub-child elements nested within each other as are required. 
 
-The version attribute ironically has no other options than "1.0". For the encoding attribute it will be important to select the encoding that encompasses the character set you intend to use. For example, if you live in the US, ASCII could work, but in many other countries characters like ä, å, ü etc. are needed. You'd get some weird characters if you set the encoding to ASCII and needed those characters. There are various different types of file encoding, example: UTF-8 (most commonly used), UTF-16, UTF-32, ISO-8859 and plenty of other options. 
-
-## Root Element
+## Example 
 ~~~xml
 <?xml version="1.0" encoding="UTF-8"?>
 <school>
     <name>PS 101</name>
+        <size students=100 staff=50></size>
     <district>12</district>
 </school>
 ~~~
-This is a mandatory field and is the parent of all the elements. All of the other elements to be defined in XML should and must be inside one root element. There can only be one root element in the XML file. 
+### XML Definition
+~~~xml
+<?xml version="1.0" encoding="UTF-8"?>
+~~~
+This is an optional field but usage is typical and is incredibly important to define the the metadata intended to be used in the XML file below this point. It contains the XML version attribute and the XML file encoding attribute. There is no closing tag required. 
+
+The version attribute ironically has no other options than "1.0". For the encoding attribute it will be important to select the encoding that encompasses the character set you intend to use. For example, if you live in the US, ASCII could work, but in many other countries characters like ä, å, ü etc. are needed. You'd get some weird characters if you set the encoding to ASCII and needed those characters. There are various different types of file encoding, example: UTF-8 (most commonly used), UTF-16, UTF-32, ISO-8859 and plenty of other options.
+
+### Root Element
+This is a mandatory field and is the parent of all the elements. All of the other elements to be defined in XML should and must be inside one root element. There can only be one root element in the XML file. In the above example the root element is `<school>`. 
+
+### Child Element
+An element within the root element is called a child element. There can be multiple child elements within one root element. In the above example both `<name>` and `<district>` are child elements. 
+
+### Sub-Child Element
+An element within another child element is called a sub-child element. There can be multiple sub-child elements within one child element. In the above example, `<size>` is a sub-child element. 
+
+### Attributes
 
 Citations
 
